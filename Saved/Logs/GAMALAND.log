@@ -2020,3 +2020,104 @@ Scale3D: 1.000000 1.000000 1.000000
 [2025.05.07-03.43.07:180][594]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
 [2025.05.07-03.43.07:193][594]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2025.05.07-03.43.07:286][598]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.07-03.47.14:508][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.05.07-03.47.14:512][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/F4/ESRCPLK8A7OGZNW7Z2UOAI_Auto8
+[2025.05.07-03.47.14:512][985]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/ESRCPLK8A7OGZNW7Z2UOAI_Auto85309C77E4B79FF4A1648AE8A8A57ABFC.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/F4/ESRCPLK8A7OGZNW7Z2UOAI_Auto8.uasset'
+[2025.05.07-03.47.14:513][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/4K/LW8WB64KMSNHYIFK24LRJH_Auto8
+[2025.05.07-03.47.14:513][985]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/LW8WB64KMSNHYIFK24LRJH_Auto897AEDF9A4C8111128A1F388DEC94E185.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/4K/LW8WB64KMSNHYIFK24LRJH_Auto8.uasset'
+[2025.05.07-03.47.14:515][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/LY/P791F0DKL01WKRCG1ZO35D_Auto8
+[2025.05.07-03.47.14:515][985]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/P791F0DKL01WKRCG1ZO35D_Auto8EF6235974170979BD7680FBF6F3C2E45.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/LY/P791F0DKL01WKRCG1ZO35D_Auto8.uasset'
+[2025.05.07-03.47.14:516][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/C8/IG3JGV8BAWW2095T0T7EI4_Auto8
+[2025.05.07-03.47.14:516][985]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/IG3JGV8BAWW2095T0T7EI4_Auto81A934A2C458247236D69EF824B1EC931.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/C8/IG3JGV8BAWW2095T0T7EI4_Auto8.uasset'
+[2025.05.07-03.47.14:517][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/E1/X5ISUGQDT5SCC86JZ340FM_Auto8
+[2025.05.07-03.47.14:517][985]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/X5ISUGQDT5SCC86JZ340FM_Auto81FE39F6C4F8F12EF9380569BA87A6CD4.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/E1/X5ISUGQDT5SCC86JZ340FM_Auto8.uasset'
+[2025.05.07-03.47.14:518][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HU/WY2HRIRAUD6K64R0EEE61Z_Auto8
+[2025.05.07-03.47.14:518][985]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/WY2HRIRAUD6K64R0EEE61Z_Auto8D76BAD8D414B49BC3CFAAFBD8BA8E540.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/HU/WY2HRIRAUD6K64R0EEE61Z_Auto8.uasset'
+[2025.05.07-03.47.14:519][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/PA/G0O0W1K8D8110J5528RRM7_Auto8
+[2025.05.07-03.47.14:519][985]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/G0O0W1K8D8110J5528RRM7_Auto82DBEFFB14AD93E8255921ABE4B03FAD6.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/PA/G0O0W1K8D8110J5528RRM7_Auto8.uasset'
+[2025.05.07-03.47.14:520][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/PL/K1IZTI0COGGI2QZL4SZWSL_Auto8
+[2025.05.07-03.47.14:520][985]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/K1IZTI0COGGI2QZL4SZWSL_Auto8A346D6234B90630D0013C28FFD86F425.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/PL/K1IZTI0COGGI2QZL4SZWSL_Auto8.uasset'
+[2025.05.07-03.47.14:521][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/X1/PETRKMC9F5CYHMAEGQLC10_Auto8
+[2025.05.07-03.47.14:521][985]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/PETRKMC9F5CYHMAEGQLC10_Auto8C63AD9E7456EE6EA16325A84027F136A.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/X1/PETRKMC9F5CYHMAEGQLC10_Auto8.uasset'
+[2025.05.07-03.47.14:522][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/HO/WEO5IEPCDKL4T7H9RNO6IH_Auto8
+[2025.05.07-03.47.14:522][985]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/WEO5IEPCDKL4T7H9RNO6IH_Auto8904CD743403E75FF7467F5AF8C4BBDD9.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/HO/WEO5IEPCDKL4T7H9RNO6IH_Auto8.uasset'
+[2025.05.07-03.47.14:524][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/6R/EKNCNDH5JFTC0N3USDCV1B_Auto8
+[2025.05.07-03.47.14:524][985]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/EKNCNDH5JFTC0N3USDCV1B_Auto80BE7FAD44624D59F6AB4569D1CFABA66.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/6R/EKNCNDH5JFTC0N3USDCV1B_Auto8.uasset'
+[2025.05.07-03.47.14:525][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/YL/OQ55RX24LL6OC564EYWCY7_Auto8
+[2025.05.07-03.47.14:525][985]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/OQ55RX24LL6OC564EYWCY7_Auto80C0E00874BCBF45DCB7407BD3CC70142.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/YL/OQ55RX24LL6OC564EYWCY7_Auto8.uasset'
+[2025.05.07-03.47.14:526][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/6Y/PLC4HZ28KZ26MI2WKIYVOT_Auto8
+[2025.05.07-03.47.14:526][985]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/PLC4HZ28KZ26MI2WKIYVOT_Auto8222D529B491E42A324BA56959954CFAB.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/6Y/PLC4HZ28KZ26MI2WKIYVOT_Auto8.uasset'
+[2025.05.07-03.47.14:527][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/V6/67I5R0CZIK66AXQ38WQYHR_Auto8
+[2025.05.07-03.47.14:527][985]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/67I5R0CZIK66AXQ38WQYHR_Auto8E09E3E60470F74FE2EEF6296DEBC0D61.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/V6/67I5R0CZIK66AXQ38WQYHR_Auto8.uasset'
+[2025.05.07-03.47.14:528][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/W7/9C0TQ8EZ1EZ62G84VD7XUF_Auto8
+[2025.05.07-03.47.14:528][985]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/9C0TQ8EZ1EZ62G84VD7XUF_Auto8D2EE66CF475609C13BCE58A221AE85F1.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/W7/9C0TQ8EZ1EZ62G84VD7XUF_Auto8.uasset'
+[2025.05.07-03.47.14:528][985]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.046
+[2025.05.07-03.47.14:528][985]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2025.05.07-03.47.14:528][985]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.05.07-03.47.14:528][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.05.07-03.47.14:538][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8
+[2025.05.07-03.47.14:538][985]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/BP_ThirdPersonCharacter_Auto8DDD33CF3434609B4E7229F8108858CFC.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto8.uasset'
+[2025.05.07-03.47.14:538][985]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/penalties/Kolam] ([2] browsable assets)...
+[2025.05.07-03.47.14:538][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/penalties/Kolam]
+[2025.05.07-03.47.14:538][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/penalties/Kolam" FILE="../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/penalties/Kolam_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2025.05.07-03.47.14:542][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/penalties/Kolam_Auto8
+[2025.05.07-03.47.14:542][985]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Kolam_Auto8B6CE6F5A4AD07B71E35AE384C249AE15.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/penalties/Kolam_Auto8.uasset'
+[2025.05.07-03.47.14:542][985]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/penalties/popup] ([2] browsable assets)...
+[2025.05.07-03.47.14:542][985]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.07-03.47.14:542][985]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	popup_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:popup_C_10
+	Function /Game/penalties/popup.popup_C:ExecuteUbergraph_popup:0030
+[2025.05.07-03.47.14:545][985]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/penalties/popup.popup]
+[2025.05.07-03.47.14:545][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/penalties/popup]
+[2025.05.07-03.47.14:545][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/penalties/popup" FILE="../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/penalties/popup_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2025.05.07-03.47.14:548][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/penalties/popup_Auto8
+[2025.05.07-03.47.14:548][985]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/popup_Auto81C8FA5A34095D99E922FFD9873EA0FFD.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/penalties/popup_Auto8.uasset'
+[2025.05.07-03.47.14:549][985]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Pop_up_Game_Over] ([1] browsable assets)...
+[2025.05.07-03.47.14:549][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Pop_up_Game_Over]
+[2025.05.07-03.47.14:550][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Pop_up_Game_Over_Auto8
+[2025.05.07-03.47.14:550][985]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Pop_up_Game_Over_Auto840C8544E4E062BC168EC87A152A84337.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/UI/Pop_up_Game_Over_Auto8.uasset'
+[2025.05.07-03.47.14:551][985]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Restart] ([1] browsable assets)...
+[2025.05.07-03.47.14:551][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Restart]
+[2025.05.07-03.47.14:551][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Restart" FILE="../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/UI/Restart_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2025.05.07-03.47.14:551][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Restart_Auto8
+[2025.05.07-03.47.14:551][985]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Restart_Auto8FD46952845A87011B887E59176657345.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/UI/Restart_Auto8.uasset'
+[2025.05.07-03.47.14:552][985]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Quit] ([1] browsable assets)...
+[2025.05.07-03.47.14:552][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Quit]
+[2025.05.07-03.47.14:552][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Quit" FILE="../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/UI/Quit_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2025.05.07-03.47.14:553][985]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Quit_Auto8
+[2025.05.07-03.47.14:553][985]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Quit_Auto8D20AC7C240540130AF1DDDBD766E7364.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/UI/Quit_Auto8.uasset'
+[2025.05.07-03.47.14:553][985]LogFileHelpers: Auto-saving content packages took 0.025
+[2025.05.07-03.47.14:753][986]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.07-03.47.14:754][986]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	popup_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:popup_C_10
+	Function /Game/penalties/popup.popup_C:ExecuteUbergraph_popup:0030
+[2025.05.07-03.50.28:787][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.07-03.50.28:881][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/penalties/Kolam" FILE="../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/penalties/Kolam.uasset" SILENT=true
+[2025.05.07-03.50.28:884][704]LogSavePackage: Moving output files for package: /Game/penalties/Kolam
+[2025.05.07-03.50.28:885][704]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/KolamADD50AE0452358DCC19696A043475273.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/penalties/Kolam.uasset'
+[2025.05.07-03.50.28:904][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 226 ms)
+[2025.05.07-03.50.28:909][704]AssetCheck: New page: Asset Save: Kolam
+[2025.05.07-03.50.28:910][704]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/penalties/Kolam.Kolam
+[2025.05.07-03.50.29:428][726]BlueprintLog: New page: Compile Kolam
+[2025.05.07-03.50.29:473][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.05.07-03.50.30:696][770]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.07-03.50.30:696][770]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	popup_C /Engine/Transient.World_7:popup_C_46
+	Function /Game/penalties/popup.popup_C:ExecuteUbergraph_popup:0030
+[2025.05.07-03.50.32:847][852]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.07-03.50.32:937][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/penalties/popup" FILE="../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/penalties/popup.uasset" SILENT=true
+[2025.05.07-03.50.32:941][852]LogSavePackage: Moving output files for package: /Game/penalties/popup
+[2025.05.07-03.50.32:941][852]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/popup353DB05A4C0D618995552CB0B856E0F0.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/penalties/popup.uasset'
+[2025.05.07-03.50.32:961][852]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 339 ms)
+[2025.05.07-03.50.32:965][852]AssetCheck: New page: Asset Save: popup
+[2025.05.07-03.50.32:965][852]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/penalties/popup.popup
+[2025.05.07-03.50.32:986][854]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.07-03.50.32:986][854]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	popup_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:popup_C_11
+	Function /Game/penalties/popup.popup_C:ExecuteUbergraph_popup:0030
+[2025.05.07-03.50.35:701][956]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.07-03.50.35:800][956]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.05.07-03.50.35:800][956]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/BP_ThirdPersonCharacter1A6F4B794B1DD086CB9B41833D0CE51A.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.05.07-03.50.35:814][956]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 453 ms)
+[2025.05.07-03.50.35:820][956]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.05.07-03.50.35:820][956]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
