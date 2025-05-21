@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/penalties/ranting.uasset",
 				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/penalties/ranting2.uasset",
@@ -79,7 +80,25 @@
 				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/penalties/Fins_Roughness.uasset",
 				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/penalties/kolam_bening.uasset",
 				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/penalties/kolam_bening_volume.uasset",
+<<<<<<< HEAD
 				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/penalties/hitbranch.uasset",
+=======
+=======
+				"C:/Users/Admin/Downloads/gamaland/Content/UI/MainMenu.uasset",
+				"C:/Users/Admin/Downloads/gamaland/Content/ThirdPerson/Maps/mainmenumap.umap",
+				"C:/Users/Admin/Downloads/gamaland/Content/ThirdPerson/Maps/pausemenumap.umap",
+				"C:/Users/Admin/Downloads/gamaland/Content/UI/PauseMenu.uasset",
+				"C:/Users/Admin/Downloads/gamaland/Content/UI/pausemenumode.uasset",
+				"C:/Users/Admin/Downloads/gamaland/Content/ThirdPerson/Input/Actions/IA_PauseMenu.uasset",
+				"C:/Users/Admin/Downloads/gamaland/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Admin/Downloads/gamaland/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Admin/Downloads/gamaland/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/Admin/Downloads/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/Admin/Downloads/gamaland/Content/UI/BackgroundGame.uasset",
+				"C:/Users/Admin/Downloads/gamaland/Content/UI/Popup.uasset",
+				"C:/Users/Admin/Downloads/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/8I/79BH6UQ7UTXM2QOYTZ0EZT.uasset",
+>>>>>>> 1111cd8c884104c7fb44109f29ac76ef9ade299a
+>>>>>>> ddb9558a43151fa3139c3d47d9158945dba905d2
 				"C:/Users/Admin/Documents/Unreal Projects/puds/GAMALAND/Content/NewBlueprint.uasset",
 				"C:/Users/Admin/Documents/Unreal Projects/puds/GAMALAND/Content/assets/Kembara_Loka_v4_AUDIT_BIO.uasset",
 				"C:/Users/Admin/Documents/Unreal Projects/puds/GAMALAND/Content/bnew.uasset",
