@@ -1835,3 +1835,313 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.05.28-02.55.02:796][696]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2025.05.28-02.55.02:803][697]LogPlayLevel: Display: Destroying online subsystem :Context_14
 [2025.05.28-02.55.02:816][697]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-02.59.55:141][732]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.28-02.59.55:146][732]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.28-02.59.55:147][732]LogWorldPartition: Display: GenerateStreaming started...
+[2025.05.28-02.59.55:147][732]LogWorldPartition: Display: GetPartitionedActors started...
+[2025.05.28-02.59.55:147][732]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 17 us)
+[2025.05.28-02.59.55:147][732]LogWorldPartition: Display: GenerateStreaming took 137 us (total: 264 us)
+[2025.05.28-02.59.55:147][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.28-02.59.55:148][732]PIE: New page: PIE session: ThirdPersonMap (May 28, 2025, 4:59:55 PM)
+[2025.05.28-02.59.55:148][732]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.28-02.59.55:156][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008226s)
+[2025.05.28-02.59.55:156][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.008262s)
+[2025.05.28-02.59.55:156][732]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.28-02.59.55:156][732]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.28-02.59.55:156][732]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.05.28-02.59.55:157][732]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.28-02.59.55:157][732]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.28-02.59.55:157][732]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2025.05.28-02.59.55:159][732]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.05.28-02.59.55:159][732]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.92 sec)
+[2025.05.28-02.59.55:159][732]LogPlayLevel: PIE: World Init took: (0.002849s)
+[2025.05.28-02.59.55:182][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.05.28-02.59.55:183][732]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.05.28-02.59.55:183][732]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.28-02.59.55:183][732]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.28-02.59.55:183][732]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.28-02.59.55:183][732]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.28-02.59.55:183][732]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.28-02.59.55:183][732]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.05.28-02.59.55:183][732]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.28-02.59.55:184][732]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.28-02.59.55:184][732]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.28-02.59.55:184][732]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.28-02.59.55:184][732]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.28-02.59.55:186][732]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.28-02.59.55:194][732]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.05.28-02.59.55:194][732]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.28-02.59.55:194][732]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.28-02.59.55:194][732]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.28-02.59.55:195][732]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.05.28-02.59.55:195][732]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.05.28-02.59.55:197][732]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.05.28-02.59.55:197][732]LogInit: FAudioDevice initialized with ID 3.
+[2025.05.28-02.59.55:197][732]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2025.05.28-02.59.55:197][732]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=9520
+[2025.05.28-02.59.55:197][732]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=3
+[2025.05.28-02.59.55:197][732]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.05.28-02.59.55:200][732]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.28-02.59.55:205][732]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.05.28-09.59.55
+[2025.05.28-02.59.55:205][732]LogWorld: Bringing up level for play took: 0.005219
+[2025.05.28-02.59.55:207][732]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.05.28-02.59.55:214][732]PIE: Server logged in
+[2025.05.28-02.59.55:214][732]PIE: Play in editor total start time 0.068 seconds.
+[2025.05.28-02.59.55:235][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-02.59.55:235][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-02.59.55:236][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-02.59.55:237][732]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-02.59.55:268][733]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-02.59.55:268][733]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-02.59.55:269][733]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-02.59.55:270][733]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-03.00.11:613][295]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.05.28-03.00.11:613][295]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.05.28-03.00.11:774][301]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-03.00.15:387][470]Cmd: quit
+[2025.05.28-03.00.15:388][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.28-03.00.15:388][470]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.28-03.00.15:388][470]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-03.00.15:389][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-03.00.15:389][470]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.05.28-03.00.15:428][470]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.28-03.00.15:432][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-03.00.15:454][470]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.28-03.00.15:455][470]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.05.28-03.00.15:455][470]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.05.28-03.00.15:456][470]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.05.28-03.00.15:458][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.28-03.00.15:461][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.05.28-03.00.15:547][470]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-03.00.15:554][471]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.05.28-03.00.23:245][757]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.28-03.00.23:245][757]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	popup_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:popup_C_3
+	Function /Game/penalties/popup.popup_C:ExecuteUbergraph_popup:0091
+[2025.05.28-03.00.24:822][812]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.28-03.00.24:822][812]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	popup_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:popup_C_3
+	Function /Game/penalties/popup.popup_C:ExecuteUbergraph_popup:0091
+[2025.05.28-03.00.24:843][813]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.28-03.00.24:844][813]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	popup_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:popup_C_3
+	Function /Game/penalties/popup.popup_C:ExecuteUbergraph_popup:0091
+[2025.05.28-03.00.39:437][267]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/penalties/hitbranch.hitbranch
+[2025.05.28-03.00.39:437][267]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.28-03.00.39:437][267]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.28-03.00.39:477][267]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.28-03.00.39:477][267]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.28-03.05.40:425][900]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.28-03.05.40:425][900]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	popup_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:popup_C_3
+	Function /Game/penalties/popup.popup_C:ExecuteUbergraph_popup:0091
+[2025.05.28-03.05.40:426][900]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.28-03.05.40:426][900]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	popup_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:popup_C_3
+	Function /Game/penalties/popup.popup_C:ExecuteUbergraph_popup:0091
+[2025.05.28-03.05.40:476][902]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.28-03.05.40:476][902]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	popup_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:popup_C_3
+	Function /Game/penalties/popup.popup_C:ExecuteUbergraph_popup:0091
+[2025.05.28-03.05.44:919][ 39]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.28-03.05.44:919][ 39]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	popup_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:popup_C_3
+	Function /Game/penalties/popup.popup_C:ExecuteUbergraph_popup:0091
+[2025.05.28-03.05.44:919][ 39]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.28-03.05.44:919][ 39]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	popup_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:popup_C_3
+	Function /Game/penalties/popup.popup_C:ExecuteUbergraph_popup:0091
+[2025.05.28-03.05.44:943][ 40]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.28-03.05.44:943][ 40]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	popup_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:popup_C_3
+	Function /Game/penalties/popup.popup_C:ExecuteUbergraph_popup:0091
+[2025.05.28-03.05.50:332][199]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.28-03.05.50:332][199]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	popup_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:popup_C_3
+	Function /Game/penalties/popup.popup_C:ExecuteUbergraph_popup:0091
+[2025.05.28-03.05.50:332][199]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.28-03.05.50:333][199]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	popup_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:popup_C_3
+	Function /Game/penalties/popup.popup_C:ExecuteUbergraph_popup:0091
+[2025.05.28-03.05.50:333][199]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.28-03.05.50:333][199]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	popup_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:popup_C_3
+	Function /Game/penalties/popup.popup_C:ExecuteUbergraph_popup:0091
+[2025.05.28-03.05.50:350][200]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.28-03.05.50:350][200]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	popup_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:popup_C_3
+	Function /Game/penalties/popup.popup_C:ExecuteUbergraph_popup:0091
+[2025.05.28-03.05.58:649][451]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.28-03.05.58:649][451]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	popup_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:popup_C_3
+	Function /Game/penalties/popup.popup_C:ExecuteUbergraph_popup:0091
+[2025.05.28-03.05.58:693][453]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.28-03.05.58:693][453]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	popup_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:popup_C_3
+	Function /Game/penalties/popup.popup_C:ExecuteUbergraph_popup:0091
+[2025.05.28-03.06.00:987][525]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.28-03.06.00:988][525]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.28-03.06.01:017][527]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.28-03.08.44:530][130]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.28-03.08.44:641][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/penalties/Kolam" FILE="../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/penalties/Kolam.uasset" SILENT=true
+[2025.05.28-03.08.44:645][130]LogSavePackage: Moving output files for package: /Game/penalties/Kolam
+[2025.05.28-03.08.44:645][130]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Kolam10F4D43A479A03D83B0434A3E8E31AC8.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/penalties/Kolam.uasset'
+[2025.05.28-03.08.44:668][130]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 264 ms)
+[2025.05.28-03.08.44:675][130]AssetCheck: New page: Asset Save: Kolam
+[2025.05.28-03.08.44:675][130]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/penalties/Kolam.Kolam
+[2025.05.28-03.08.46:488][189]BlueprintLog: New page: Compile popup
+[2025.05.28-03.08.46:535][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.05.28-03.08.46:555][189]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.28-03.08.46:555][189]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	popup_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:popup_C_4
+	Function /Game/penalties/popup.popup_C:ExecuteUbergraph_popup:00B1
+[2025.05.28-03.08.46:555][189]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.28-03.08.46:555][189]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	popup_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:popup_C_4
+	Function /Game/penalties/popup.popup_C:ExecuteUbergraph_popup:00B1
+[2025.05.28-03.08.46:627][190]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.28-03.08.46:627][190]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	popup_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:popup_C_4
+	Function /Game/penalties/popup.popup_C:ExecuteUbergraph_popup:00B1
+[2025.05.28-03.08.49:778][294]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.28-03.08.49:869][294]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.28-03.08.49:869][294]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	popup_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:popup_C_4
+	Function /Game/penalties/popup.popup_C:ExecuteUbergraph_popup:00B1
+[2025.05.28-03.08.49:880][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/penalties/popup" FILE="../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/penalties/popup.uasset" SILENT=true
+[2025.05.28-03.08.49:889][294]LogSavePackage: Moving output files for package: /Game/penalties/popup
+[2025.05.28-03.08.49:889][294]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/popupACF5B940419F2750E5C768B35A03663E.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/penalties/popup.uasset'
+[2025.05.28-03.08.49:901][294]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 387 ms)
+[2025.05.28-03.08.49:906][294]AssetCheck: New page: Asset Save: popup
+[2025.05.28-03.08.49:906][294]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/penalties/popup.popup
+[2025.05.28-03.08.49:915][295]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2025.05.28-03.08.49:915][295]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	popup_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:popup_C_4
+	Function /Game/penalties/popup.popup_C:ExecuteUbergraph_popup:00B1
+[2025.05.28-03.08.51:899][361]BlueprintLog: New page: Compile Kolam
+[2025.05.28-03.08.51:947][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.05.28-03.08.53:197][399]BlueprintLog: New page: Compile ranting
+[2025.05.28-03.08.53:255][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.05.28-03.08.54:949][451]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.28-03.08.55:065][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/penalties/ranting" FILE="../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/penalties/ranting.uasset" SILENT=true
+[2025.05.28-03.08.55:071][451]LogSavePackage: Moving output files for package: /Game/penalties/ranting
+[2025.05.28-03.08.55:071][451]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/ranting5349C9DF43D4A7A83A5E0E8B813E2752.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/penalties/ranting.uasset'
+[2025.05.28-03.08.55:080][451]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 518 ms)
+[2025.05.28-03.08.55:086][451]AssetCheck: New page: Asset Save: ranting
+[2025.05.28-03.08.55:086][451]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/penalties/ranting.ranting
+[2025.05.28-03.09.04:721][768]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.28-03.09.04:726][768]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.28-03.09.04:727][768]LogWorldPartition: Display: GenerateStreaming started...
+[2025.05.28-03.09.04:727][768]LogWorldPartition: Display: GetPartitionedActors started...
+[2025.05.28-03.09.04:727][768]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 23 us)
+[2025.05.28-03.09.04:728][768]LogWorldPartition: Display: GenerateStreaming took 122 us (total: 387 us)
+[2025.05.28-03.09.04:728][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.28-03.09.04:728][768]PIE: New page: PIE session: ThirdPersonMap (May 28, 2025, 5:09:04 PM)
+[2025.05.28-03.09.04:728][768]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.28-03.09.04:736][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008013s)
+[2025.05.28-03.09.04:736][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.008043s)
+[2025.05.28-03.09.04:736][768]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.28-03.09.04:736][768]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.28-03.09.04:736][768]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.05.28-03.09.04:737][768]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.28-03.09.04:737][768]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.28-03.09.04:737][768]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2025.05.28-03.09.04:739][768]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.05.28-03.09.04:739][768]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.92 sec)
+[2025.05.28-03.09.04:739][768]LogPlayLevel: PIE: World Init took: (0.002724s)
+[2025.05.28-03.09.04:761][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.05.28-03.09.04:763][768]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.05.28-03.09.04:763][768]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.28-03.09.04:763][768]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.28-03.09.04:763][768]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.28-03.09.04:763][768]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.28-03.09.04:763][768]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.28-03.09.04:763][768]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.05.28-03.09.04:763][768]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.28-03.09.04:763][768]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.28-03.09.04:763][768]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.28-03.09.04:763][768]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.28-03.09.04:763][768]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.28-03.09.04:764][768]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.28-03.09.04:773][768]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.05.28-03.09.04:773][768]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.28-03.09.04:773][768]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.28-03.09.04:773][768]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.28-03.09.04:774][768]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.05.28-03.09.04:774][768]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.05.28-03.09.04:775][768]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.05.28-03.09.04:775][768]LogInit: FAudioDevice initialized with ID 4.
+[2025.05.28-03.09.04:775][768]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2025.05.28-03.09.04:775][768]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3216
+[2025.05.28-03.09.04:775][768]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=4
+[2025.05.28-03.09.04:775][768]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.05.28-03.09.04:778][768]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.28-03.09.04:783][768]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.05.28-10.09.04
+[2025.05.28-03.09.04:783][768]LogWorld: Bringing up level for play took: 0.005156
+[2025.05.28-03.09.04:785][768]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.05.28-03.09.04:792][768]PIE: Server logged in
+[2025.05.28-03.09.04:793][768]PIE: Play in editor total start time 0.067 seconds.
+[2025.05.28-03.09.04:814][768]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-03.09.04:814][768]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-03.09.04:815][768]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-03.09.04:815][768]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-03.09.04:827][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-03.09.04:828][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-03.09.04:828][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-03.09.04:829][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-03.09.16:819][150]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.05.28-03.09.16:819][150]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2025.05.28-03.09.17:810][192]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-03.09.20:468][311]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.05.28-03.09.20:468][311]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.05.28-03.09.20:469][311]LogNet: Browse: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2025.05.28-03.09.20:469][311]LogLoad: LoadMap: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2025.05.28-03.09.20:469][311]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.28-03.09.20:470][311]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-03.09.20:470][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-03.09.20:470][311]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.05.28-03.09.20:493][311]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.28-03.09.20:497][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.05.28-03.09.20:508][311]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.28-03.09.20:516][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007869s)
+[2025.05.28-03.09.20:516][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.007907s)
+[2025.05.28-03.09.20:516][311]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2025.05.28-03.09.20:516][311]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.28-03.09.20:516][311]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.28-03.09.20:517][311]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.05.28-03.09.20:517][311]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.28-03.09.20:517][311]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.28-03.09.20:517][311]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2025.05.28-03.09.20:519][311]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.05.28-03.09.20:519][311]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.93 sec)
+[2025.05.28-03.09.20:519][311]LogPlayLevel: PIE: World Init took: (0.002513s)
+[2025.05.28-03.09.20:519][311]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.28-03.09.20:523][311]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.05.28-10.09.20
+[2025.05.28-03.09.20:523][311]LogWorld: Bringing up level for play took: 0.004166
+[2025.05.28-03.09.20:531][311]LogLoad: Took 0.061551 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap)
+[2025.05.28-03.09.20:537][311]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-03.09.20:538][311]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-03.09.20:538][311]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-03.09.20:539][311]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-03.09.20:545][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-03.09.20:546][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-03.09.20:546][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-03.09.20:547][312]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-03.09.27:874][551]LogBlueprintUserMessages: [ranting_C_UAID_C46516240B9BCC6302_1507792947] 4
+[2025.05.28-03.09.31:581][674]LogBlueprintUserMessages: [ranting_C_UAID_C46516240B9BCC6302_1507792947] 3
+[2025.05.28-03.09.40:509][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.28-03.09.40:509][960]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.28-03.09.40:509][960]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.28-03.09.40:510][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-03.09.40:510][960]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.05.28-03.09.40:530][960]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.28-03.09.40:535][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.28-03.09.40:557][960]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.28-03.09.40:558][960]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.05.28-03.09.40:558][960]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.05.28-03.09.40:559][960]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.05.28-03.09.40:560][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.28-03.09.40:564][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.05.28-03.09.40:592][960]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.05.28-03.09.40:599][961]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.05.28-03.09.40:613][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
