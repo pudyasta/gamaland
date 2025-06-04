@@ -38,7 +38,11 @@
 				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/penalties/Popup/game_over_popup.uasset",
 				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/Popup/game_over_popup.uasset",
 				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/Popup/level_cleared_popup.uasset",
-				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/Popup/game_end_popup.uasset"
+				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/Popup/game_end_popup.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/Popup/how_to_play_1.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/Popup/how_to_move.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/Popup/how_to_play_2.uasset"
 			]
 		}
 	]
