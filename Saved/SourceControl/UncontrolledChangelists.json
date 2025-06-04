@@ -31,7 +31,14 @@
 				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/X1/PETRKMC9F5CYHMAEGQLC10.uasset",
 				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/penalties/ES_Branch__Impact__Large__Hit_Tree_Trunk_-_Epidemic_Sound.uasset",
 				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/penalties/ES_Game_Over__Defeat__Loss__Negative__Notification_01_-_Epidemic_Sound.uasset",
-				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/penalties/ES_Small__Stick__Throw_In_Lake_-_Epidemic_Sound.uasset"
+				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/penalties/ES_Small__Stick__Throw_In_Lake_-_Epidemic_Sound.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/penalties/game_over_popup.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/penalties/hir_branch.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/penalties/Popup/level_cleared_popup.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/penalties/Popup/game_over_popup.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/Popup/game_over_popup.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/Popup/level_cleared_popup.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/Popup/game_end_popup.uasset"
 			]
 		}
 	]
