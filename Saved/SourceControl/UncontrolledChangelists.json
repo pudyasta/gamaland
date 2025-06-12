@@ -42,7 +42,13 @@
 				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/Popup/how_to_play_1.uasset",
 				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/Popup/how_to_move.uasset",
 				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/Popup/how_to_play_2.uasset"
+				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/Popup/how_to_play_2.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/UI/Game_Over.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/UI/HowToMove.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/UI/HowToPlay.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/UI/Level_Cleared.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/UI/Play_Again.uasset",
+				"C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/UI/Selesai.uasset"
 			]
 		}
 	]
