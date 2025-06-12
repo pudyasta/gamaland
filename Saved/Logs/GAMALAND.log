@@ -4628,3 +4628,1175 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.06.12-05.14.41:057][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.06.12-05.14.41:060][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
 [2025.06.12-05.14.41:084][455]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2025.06.12-05.19.05:998][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.06.12-05.19.06:001][ 92]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/WC/211COWKLLGC3E1PRR0VSI3_Auto7
+[2025.06.12-05.19.06:001][ 92]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/211COWKLLGC3E1PRR0VSI3_Auto7B3CB79C64CA276A115DFB595C1D674CE.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/WC/211COWKLLGC3E1PRR0VSI3_Auto7.uasset'
+[2025.06.12-05.19.06:002][ 92]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.030
+[2025.06.12-05.19.06:002][ 92]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2025.06.12-05.19.06:002][ 92]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Bar_Menu__1_] ([1] browsable assets)...
+[2025.06.12-05.19.06:002][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Bar_Menu__1_]
+[2025.06.12-05.19.06:002][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Bar_Menu__1_" FILE="../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/UI/Bar_Menu__1__Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.06.12-05.19.06:004][ 92]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Bar_Menu__1__Auto7
+[2025.06.12-05.19.06:004][ 92]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Bar_Menu__1__Auto7E0D17EB941A5182F5E3BEBAC9E7C2B35.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/UI/Bar_Menu__1__Auto7.uasset'
+[2025.06.12-05.19.06:004][ 92]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/bg_nav] ([1] browsable assets)...
+[2025.06.12-05.19.06:004][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/bg_nav]
+[2025.06.12-05.19.06:004][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/bg_nav" FILE="../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/UI/bg_nav_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.06.12-05.19.06:005][ 92]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/bg_nav_Auto7
+[2025.06.12-05.19.06:005][ 92]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/bg_nav_Auto74C7CC60146824CBAA5A9EBB26EA55DF8.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/UI/bg_nav_Auto7.uasset'
+[2025.06.12-05.19.06:006][ 92]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/pause_nav] ([1] browsable assets)...
+[2025.06.12-05.19.06:008][ 92]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/pause_nav.pause_nav]
+[2025.06.12-05.19.06:008][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/pause_nav]
+[2025.06.12-05.19.06:008][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/pause_nav" FILE="../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/UI/pause_nav_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.06.12-05.19.06:009][ 92]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/pause_nav_Auto7
+[2025.06.12-05.19.06:009][ 92]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/pause_nav_Auto7430A601640E153A1D65273976A08B1B1.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/UI/pause_nav_Auto7.uasset'
+[2025.06.12-05.19.06:010][ 92]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/book_nav] ([1] browsable assets)...
+[2025.06.12-05.19.06:012][ 92]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/book_nav.book_nav]
+[2025.06.12-05.19.06:012][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/book_nav]
+[2025.06.12-05.19.06:012][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/book_nav" FILE="../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/UI/book_nav_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.06.12-05.19.06:013][ 92]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/book_nav_Auto7
+[2025.06.12-05.19.06:013][ 92]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/book_nav_Auto71D7F52BF44865825E2542CA7D94BD55F.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/UI/book_nav_Auto7.uasset'
+[2025.06.12-05.19.06:013][ 92]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/lunch_nav] ([1] browsable assets)...
+[2025.06.12-05.19.06:014][ 92]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/lunch_nav.lunch_nav]
+[2025.06.12-05.19.06:014][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/lunch_nav]
+[2025.06.12-05.19.06:014][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/lunch_nav" FILE="../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/UI/lunch_nav_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.06.12-05.19.06:015][ 92]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/lunch_nav_Auto7
+[2025.06.12-05.19.06:015][ 92]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/lunch_nav_Auto7D61CB1A04F4B8848EAC0D8B01BACDC40.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/UI/lunch_nav_Auto7.uasset'
+[2025.06.12-05.19.06:015][ 92]LogFileHelpers: Auto-saving content packages took 0.014
+[2025.06.12-05.35.31:450][470]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.12-05.35.31:455][470]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.06.12-05.35.31:456][470]LogWorldPartition: Display: GenerateStreaming started...
+[2025.06.12-05.35.31:456][470]LogWorldPartition: Display: GetPartitionedActors started...
+[2025.06.12-05.35.31:456][470]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 228 us)
+[2025.06.12-05.35.31:456][470]LogWorldPartition: Display: GenerateStreaming took 100 us (total: 3 ms)
+[2025.06.12-05.35.31:456][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.12-05.35.31:456][470]PIE: New page: PIE session: ThirdPersonMap (Jun 12, 2025, 7:35:31 PM)
+[2025.06.12-05.35.31:492][470]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.06.12-05.35.31:499][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007000s)
+[2025.06.12-05.35.31:499][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.007037s)
+[2025.06.12-05.35.31:499][470]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.06.12-05.35.31:499][470]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.06.12-05.35.31:499][470]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.06.12-05.35.31:500][470]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.06.12-05.35.31:500][470]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.06.12-05.35.31:500][470]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2025.06.12-05.35.31:501][470]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.06.12-05.35.31:501][470]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 583 ms)
+[2025.06.12-05.35.31:501][470]LogPlayLevel: PIE: World Init took: (0.002537s)
+[2025.06.12-05.35.31:526][470]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.06.12-05.35.31:527][470]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2025.06.12-05.35.31:527][470]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.12-05.35.31:527][470]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.12-05.35.31:527][470]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.12-05.35.31:527][470]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.12-05.35.31:527][470]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.12-05.35.31:527][470]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.06.12-05.35.31:527][470]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.12-05.35.31:527][470]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.12-05.35.31:528][470]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.12-05.35.31:528][470]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.12-05.35.31:528][470]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.12-05.35.31:529][470]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.12-05.35.31:538][470]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.06.12-05.35.31:538][470]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.12-05.35.31:538][470]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.12-05.35.31:538][470]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.12-05.35.31:539][470]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2025.06.12-05.35.31:539][470]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2025.06.12-05.35.31:540][470]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2025.06.12-05.35.31:540][470]LogInit: FAudioDevice initialized with ID 38.
+[2025.06.12-05.35.31:540][470]LogAudio: Display: Audio Device (ID: 38) registered with world 'ThirdPersonMap'.
+[2025.06.12-05.35.31:540][470]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=8244
+[2025.06.12-05.35.31:540][470]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=38
+[2025.06.12-05.35.31:540][470]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2025.06.12-05.35.31:543][470]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.12-05.35.31:548][470]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.06.12-12.35.31
+[2025.06.12-05.35.31:548][470]LogWorld: Bringing up level for play took: 0.004847
+[2025.06.12-05.35.31:550][470]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2025.06.12-05.35.31:558][470]PIE: Server logged in
+[2025.06.12-05.35.31:558][470]PIE: Play in editor total start time 0.103 seconds.
+[2025.06.12-05.35.36:860][650]LogBlueprintUserMessages: [book_C_UAID_C46516240C66CD6302_1203525127] 10
+[2025.06.12-05.35.38:045][691]LogBlueprintUserMessages: [book_C_UAID_C46516240C43656A02_1334360208] 20
+[2025.06.12-05.35.43:445][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.12-05.35.43:445][893]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.06.12-05.35.43:445][893]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.06.12-05.35.43:446][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.12-05.35.43:446][893]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.06.12-05.35.43:483][893]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.12-05.35.43:487][893]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.12-05.35.43:512][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.12-05.35.43:513][893]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2025.06.12-05.35.43:513][893]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.06.12-05.35.43:514][893]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.06.12-05.35.43:519][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.06.12-05.35.43:543][894]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2025.06.12-05.36.23:516][ 55]LogHttp: Warning: 00000A5E628FE600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B12694BC9-482E-579C-8A73-BFB474C2C7BF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=33ac0b314353dee1a244d2a172f9a421%7C334156732c0a49f68f7933080bea4e96%7C4e7228f0-f8a2-4d37-8d71-9902abaca9a4&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.06.12-05.36.23:516][ 55]LogHttp: Warning: 00000A5E628FE600: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2025.06.12-05.36.23:516][ 55]LogHttp: Warning: 00000A5E628FE600: libcurl info message cache 0 (Found bundle for host: 0xa5db4970de0 [serially])
+[2025.06.12-05.36.23:516][ 55]LogHttp: Warning: 00000A5E628FE600: libcurl info message cache 1 (Re-using existing connection #4 with host datarouter.ol.epicgames.com)
+[2025.06.12-05.36.23:516][ 55]LogHttp: Warning: 00000A5E628FE600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.73.191.48) port 443 (#4))
+[2025.06.12-05.36.23:516][ 55]LogHttp: Warning: 00000A5E628FE600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2025.06.12-05.36.23:516][ 55]LogHttp: Warning: 00000A5E628FE600: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2025.06.12-05.36.23:516][ 55]LogHttp: Warning: 00000A5E628FE600: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.06.12-05.36.23:516][ 55]LogHttp: Warning: 00000A5E628FE600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2025.06.12-05.36.23:516][ 55]LogHttp: Warning: 00000A5E628FE600: libcurl info message cache 7 (Closing connection 4)
+[2025.06.12-05.36.23:516][ 55]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B12694BC9-482E-579C-8A73-BFB474C2C7BF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=33ac0b314353dee1a244d2a172f9a421%7C334156732c0a49f68f7933080bea4e96%7C4e7228f0-f8a2-4d37-8d71-9902abaca9a4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.06.12-05.37.04:325][175]LogHttp: Warning: 00000A5E628F4100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B12694BC9-482E-579C-8A73-BFB474C2C7BF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=33ac0b314353dee1a244d2a172f9a421%7C334156732c0a49f68f7933080bea4e96%7C4e7228f0-f8a2-4d37-8d71-9902abaca9a4&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.06.12-05.37.04:326][175]LogHttp: Warning: 00000A5E628F4100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.06.12-05.37.04:326][175]LogHttp: Warning: 00000A5E628F4100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.06.12-05.37.04:326][175]LogHttp: Warning: 00000A5E628F4100: libcurl info message cache 1 (Closing connection 5)
+[2025.06.12-05.37.04:326][175]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B12694BC9-482E-579C-8A73-BFB474C2C7BF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=33ac0b314353dee1a244d2a172f9a421%7C334156732c0a49f68f7933080bea4e96%7C4e7228f0-f8a2-4d37-8d71-9902abaca9a4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.06.12-05.38.04:569][752]LogHttp: Warning: 00000A5E628F9600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B12694BC9-482E-579C-8A73-BFB474C2C7BF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=33ac0b314353dee1a244d2a172f9a421%7C334156732c0a49f68f7933080bea4e96%7C4e7228f0-f8a2-4d37-8d71-9902abaca9a4&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.06.12-05.38.04:569][752]LogHttp: Warning: 00000A5E628F9600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.06.12-05.38.04:569][752]LogHttp: Warning: 00000A5E628F9600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.06.12-05.38.04:569][752]LogHttp: Warning: 00000A5E628F9600: libcurl info message cache 1 (Closing connection 6)
+[2025.06.12-05.38.04:569][752]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B12694BC9-482E-579C-8A73-BFB474C2C7BF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=33ac0b314353dee1a244d2a172f9a421%7C334156732c0a49f68f7933080bea4e96%7C4e7228f0-f8a2-4d37-8d71-9902abaca9a4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.06.12-05.39.16:205][192]Cmd: DELETE
+[2025.06.12-05.39.16:205][192]Cmd: ACTOR DELETE
+[2025.06.12-05.39.16:207][192]LogEditorActor: Deleted Actor: Lunch_C
+[2025.06.12-05.39.16:236][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.06.12-05.39.16:237][192]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.06.12-05.39.17:736][249]Cmd: DELETE
+[2025.06.12-05.39.17:736][249]Cmd: ACTOR DELETE
+[2025.06.12-05.39.17:738][249]LogEditorActor: Deleted Actor: book_C
+[2025.06.12-05.39.17:765][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.06.12-05.39.17:767][249]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2025.06.12-05.39.18:318][267]Cmd: DELETE
+[2025.06.12-05.39.18:318][267]Cmd: ACTOR DELETE
+[2025.06.12-05.39.18:319][267]LogEditorActor: Deleted Actor: book_C
+[2025.06.12-05.39.18:344][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.06.12-05.39.18:345][267]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.06.12-05.39.21:573][388]Cmd: DELETE
+[2025.06.12-05.39.21:573][388]Cmd: ACTOR DELETE
+[2025.06.12-05.39.21:575][388]LogEditorActor: Deleted Actor: book_C
+[2025.06.12-05.39.21:602][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.06.12-05.39.21:603][388]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.06.12-05.39.55:799][372]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.39.55:799][372]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.39.55:801][372]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_0
+[2025.06.12-05.39.55:802][372]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_0
+[2025.06.12-05.39.56:822][411]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.39.56:823][411]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.39.56:824][411]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C43597102_2015701498
+[2025.06.12-05.39.56:826][411]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C43597102_2015701498
+[2025.06.12-05.40.32:225][518]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.40.32:225][518]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.40.32:226][518]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_1
+[2025.06.12-05.40.32:228][518]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_1
+[2025.06.12-05.40.33:362][565]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.40.33:362][565]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.40.33:365][565]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C43597102_2052241499
+[2025.06.12-05.40.33:366][565]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C43597102_2052241499
+[2025.06.12-05.41.02:077][476]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.41.02:077][476]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.41.02:080][476]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_2
+[2025.06.12-05.41.02:081][476]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_2
+[2025.06.12-05.41.02:457][491]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.41.02:457][491]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.41.02:460][491]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C43597102_2081336500
+[2025.06.12-05.41.02:461][491]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C43597102_2081336500
+[2025.06.12-05.41.37:869][423]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.41.37:869][423]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.41.37:870][423]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_3
+[2025.06.12-05.41.37:872][423]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_3
+[2025.06.12-05.41.38:616][455]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.41.38:616][455]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.41.38:618][455]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C43597102_2117495501
+[2025.06.12-05.41.38:620][455]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C43597102_2117495501
+[2025.06.12-05.42.07:687][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.06.12-05.42.07:689][981]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/8A/7ZXSGJCCHURCIC2KIVTI28_Auto8
+[2025.06.12-05.42.07:689][981]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/7ZXSGJCCHURCIC2KIVTI28_Auto802F86B354734C46F5F1DC2892AF0E9D4.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/8A/7ZXSGJCCHURCIC2KIVTI28_Auto8.uasset'
+[2025.06.12-05.42.07:691][981]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EE/VIIQQOB5ADBLY1T7L5TSWP_Auto8
+[2025.06.12-05.42.07:691][981]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/VIIQQOB5ADBLY1T7L5TSWP_Auto848D7C8E44E7D97D79D6C2DA99648B8F0.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EE/VIIQQOB5ADBLY1T7L5TSWP_Auto8.uasset'
+[2025.06.12-05.42.07:692][981]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/5H/0ARDDKY1NC9OSLHNXKOL9A_Auto8
+[2025.06.12-05.42.07:692][981]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/0ARDDKY1NC9OSLHNXKOL9A_Auto861F4997A47B1325FDF55FFBC5857B7A0.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/5H/0ARDDKY1NC9OSLHNXKOL9A_Auto8.uasset'
+[2025.06.12-05.42.07:693][981]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/4D/7ZTANUIHHSRR5EG3T994SK_Auto8
+[2025.06.12-05.42.07:693][981]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/7ZTANUIHHSRR5EG3T994SK_Auto8C355A8F64FC0E304D3836AA12E12B2CE.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/4D/7ZTANUIHHSRR5EG3T994SK_Auto8.uasset'
+[2025.06.12-05.42.07:694][981]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.035
+[2025.06.12-05.42.07:694][981]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2025.06.12-05.42.09:136][ 34]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.42.09:136][ 34]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.42.09:137][ 34]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_4
+[2025.06.12-05.42.09:139][ 34]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_4
+[2025.06.12-05.42.09:999][ 69]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.42.09:999][ 69]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.42.10:002][ 69]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1075136678
+[2025.06.12-05.42.10:003][ 69]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1075136678
+[2025.06.12-05.42.32:567][678]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.42.32:567][678]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.42.32:569][678]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_5
+[2025.06.12-05.42.32:570][678]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_5
+[2025.06.12-05.42.33:997][732]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.42.33:997][732]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.42.34:000][732]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1099134679
+[2025.06.12-05.42.34:001][732]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1099134679
+[2025.06.12-05.42.53:443][200]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.42.53:443][200]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.42.53:444][200]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_6
+[2025.06.12-05.42.53:446][200]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_6
+[2025.06.12-05.42.54:273][236]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.42.54:273][236]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.42.54:276][236]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1119410680
+[2025.06.12-05.42.54:277][236]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1119410680
+[2025.06.12-05.43.16:013][671]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.43.16:013][671]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.43.16:014][671]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_7
+[2025.06.12-05.43.16:016][671]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_7
+[2025.06.12-05.43.17:480][726]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.43.17:480][726]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.43.17:483][726]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1142617681
+[2025.06.12-05.43.17:484][726]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1142617681
+[2025.06.12-05.43.41:787][457]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.43.41:787][457]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.43.41:788][457]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_8
+[2025.06.12-05.43.41:790][457]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_8
+[2025.06.12-05.43.42:487][487]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.43.42:487][487]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.43.42:489][487]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1167624682
+[2025.06.12-05.43.42:491][487]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1167624682
+[2025.06.12-05.44.50:609][606]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.44.50:609][606]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.44.50:610][606]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_9
+[2025.06.12-05.44.50:611][606]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_9
+[2025.06.12-05.44.51:106][626]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.44.51:106][626]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.44.51:109][626]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1236243683
+[2025.06.12-05.44.51:110][626]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1236243683
+[2025.06.12-05.45.20:462][361]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.45.20:462][361]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.45.20:463][361]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_10
+[2025.06.12-05.45.20:465][361]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_10
+[2025.06.12-05.45.21:884][414]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.45.21:884][414]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.45.21:886][414]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1267021684
+[2025.06.12-05.45.21:888][414]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1267021684
+[2025.06.12-05.46.33:746][759]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.46.33:746][759]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.46.33:748][759]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_11
+[2025.06.12-05.46.33:749][759]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_11
+[2025.06.12-05.46.34:879][806]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.46.34:879][806]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.46.34:881][806]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1340016685
+[2025.06.12-05.46.34:883][806]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1340016685
+[2025.06.12-05.47.30:721][409]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.47.30:721][409]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.47.30:722][409]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_12
+[2025.06.12-05.47.30:724][409]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_12
+[2025.06.12-05.47.31:489][441]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.47.31:489][441]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.47.31:492][441]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1396626686
+[2025.06.12-05.47.31:493][441]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1396626686
+[2025.06.12-05.48.41:276][ 60]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.48.41:276][ 60]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.48.41:277][ 60]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_13
+[2025.06.12-05.48.41:278][ 60]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_13
+[2025.06.12-05.48.42:065][ 96]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.48.42:065][ 96]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.48.42:068][ 96]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1467202687
+[2025.06.12-05.48.42:069][ 96]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1467202687
+[2025.06.12-05.49.33:350][454]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.49.33:350][454]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.49.33:351][454]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_14
+[2025.06.12-05.49.33:353][454]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_14
+[2025.06.12-05.49.33:914][477]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.49.33:914][477]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.49.33:916][477]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1519051688
+[2025.06.12-05.49.33:917][477]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1519051688
+[2025.06.12-05.50.05:547][ 70]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.50.05:547][ 70]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.50.05:549][ 70]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_15
+[2025.06.12-05.50.05:550][ 70]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_15
+[2025.06.12-05.50.05:997][ 88]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.50.05:997][ 88]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.50.06:000][ 88]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1551134689
+[2025.06.12-05.50.06:001][ 88]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1551134689
+[2025.06.12-05.50.26:373][495]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.50.26:373][495]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.50.26:375][495]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_16
+[2025.06.12-05.50.26:377][495]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_16
+[2025.06.12-05.50.27:228][526]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.50.27:228][526]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.50.27:230][526]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1572365690
+[2025.06.12-05.50.27:232][526]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1572365690
+[2025.06.12-05.51.49:547][765]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.51.49:547][765]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.51.49:548][765]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_17
+[2025.06.12-05.51.49:549][765]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_17
+[2025.06.12-05.51.50:076][784]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.51.50:076][784]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.51.50:079][784]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1655213691
+[2025.06.12-05.51.50:081][784]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1655213691
+[2025.06.12-05.52.18:163][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.06.12-05.52.18:167][980]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/T4/JP4WC7KKDP0U19GELGT4FL_Auto9
+[2025.06.12-05.52.18:167][980]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/JP4WC7KKDP0U19GELGT4FL_Auto954898AFB43DBA0BA6431FDA798A269B3.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/T4/JP4WC7KKDP0U19GELGT4FL_Auto9.uasset'
+[2025.06.12-05.52.18:168][980]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/KB/D48161CFKXBS6WEGVVBQQ5_Auto9
+[2025.06.12-05.52.18:168][980]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/D48161CFKXBS6WEGVVBQQ5_Auto996F2B79244BC7FE77B1FA3AF48499640.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/KB/D48161CFKXBS6WEGVVBQQ5_Auto9.uasset'
+[2025.06.12-05.52.18:170][980]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/Z1/C4VXRKHGHWQ100IXOTRZ1C_Auto9
+[2025.06.12-05.52.18:170][980]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/C4VXRKHGHWQ100IXOTRZ1C_Auto9FC49087A483B23DCA9FA94B3BD17BF50.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/Z1/C4VXRKHGHWQ100IXOTRZ1C_Auto9.uasset'
+[2025.06.12-05.52.18:171][980]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/YH/FD9HO2WPRX6VQT5ND9SJH3_Auto9
+[2025.06.12-05.52.18:171][980]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/FD9HO2WPRX6VQT5ND9SJH3_Auto9466DA24F49063F731BBD9FBB86FAB430.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/YH/FD9HO2WPRX6VQT5ND9SJH3_Auto9.uasset'
+[2025.06.12-05.52.18:172][980]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DC/QR2J1RS96LYYYTJZ35IAZJ_Auto9
+[2025.06.12-05.52.18:172][980]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/QR2J1RS96LYYYTJZ35IAZJ_Auto9E6ADA59C4DB1870F2791748E4DBB4E85.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DC/QR2J1RS96LYYYTJZ35IAZJ_Auto9.uasset'
+[2025.06.12-05.52.18:174][980]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3P/5XPQGER4HLPVFJE81DF7I6_Auto9
+[2025.06.12-05.52.18:174][980]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/5XPQGER4HLPVFJE81DF7I6_Auto9DE227F274B4231C786D35DBE19C3E65D.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3P/5XPQGER4HLPVFJE81DF7I6_Auto9.uasset'
+[2025.06.12-05.52.18:176][980]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/0P/Y6Y5IW02VCFLJCX30KF1WN_Auto9
+[2025.06.12-05.52.18:176][980]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Y6Y5IW02VCFLJCX30KF1WN_Auto99FB59B9F404DA9CD5102178B48AB52DB.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/0P/Y6Y5IW02VCFLJCX30KF1WN_Auto9.uasset'
+[2025.06.12-05.52.18:177][980]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/W8/BVR6G43SFMNFE9G93BPF6T_Auto9
+[2025.06.12-05.52.18:177][980]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/BVR6G43SFMNFE9G93BPF6T_Auto92D5226E547BB29470A5159BE98442663.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/W8/BVR6G43SFMNFE9G93BPF6T_Auto9.uasset'
+[2025.06.12-05.52.18:178][980]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/DJ/D6I9BTJVTMNI253CQSXP2B_Auto9
+[2025.06.12-05.52.18:178][980]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/D6I9BTJVTMNI253CQSXP2B_Auto9154423844FFC3472C924988DCE8B72DD.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/DJ/D6I9BTJVTMNI253CQSXP2B_Auto9.uasset'
+[2025.06.12-05.52.18:179][980]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/9H/YODQI0CBBN546ITB8ZW2VA_Auto9
+[2025.06.12-05.52.18:179][980]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/YODQI0CBBN546ITB8ZW2VA_Auto9FE2424174F871A34226EEB8F106B6160.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/9H/YODQI0CBBN546ITB8ZW2VA_Auto9.uasset'
+[2025.06.12-05.52.18:181][980]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/0P/H6VTJF3BTRJIKB82X0NYRJ_Auto9
+[2025.06.12-05.52.18:181][980]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/H6VTJF3BTRJIKB82X0NYRJ_Auto96F1DAD1B4947417536D8178D4F8664CC.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/0P/H6VTJF3BTRJIKB82X0NYRJ_Auto9.uasset'
+[2025.06.12-05.52.18:182][980]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/TN/S1GHJDVSGGZRXLXUXZV8SE_Auto9
+[2025.06.12-05.52.18:182][980]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/S1GHJDVSGGZRXLXUXZV8SE_Auto90ED188594E7D2EB489E8B1A92963D8BE.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/TN/S1GHJDVSGGZRXLXUXZV8SE_Auto9.uasset'
+[2025.06.12-05.52.18:184][980]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/ZF/7VVQBQ929OX2HI3WAB7GRT_Auto9
+[2025.06.12-05.52.18:184][980]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/7VVQBQ929OX2HI3WAB7GRT_Auto91BFC6959489573DBDCC5429B039BA8AD.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/ZF/7VVQBQ929OX2HI3WAB7GRT_Auto9.uasset'
+[2025.06.12-05.52.18:185][980]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/PV/81QGOZAX825JN44GO7PEOZ_Auto9
+[2025.06.12-05.52.18:185][980]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/81QGOZAX825JN44GO7PEOZ_Auto93C8F65BF41FDE9FB25D88AA86A01F9C6.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/PV/81QGOZAX825JN44GO7PEOZ_Auto9.uasset'
+[2025.06.12-05.52.18:185][980]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.058
+[2025.06.12-05.52.18:185][980]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2025.06.12-05.55.04:112][154]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.55.04:112][154]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.55.04:113][154]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_18
+[2025.06.12-05.55.04:114][154]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_18
+[2025.06.12-05.55.04:853][182]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.55.04:853][182]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.55.04:856][182]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1849990692
+[2025.06.12-05.55.04:858][182]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1849990692
+[2025.06.12-05.55.31:955][883]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.55.31:956][883]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.55.31:957][883]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_19
+[2025.06.12-05.55.31:958][883]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_19
+[2025.06.12-05.55.32:363][898]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.55.32:363][898]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.55.32:366][898]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1877500693
+[2025.06.12-05.55.32:368][898]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1877500693
+[2025.06.12-05.56.04:747][608]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.56.04:747][608]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.56.04:748][608]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_20
+[2025.06.12-05.56.04:750][608]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_20
+[2025.06.12-05.56.05:149][624]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.56.05:149][624]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.56.05:152][624]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1910286694
+[2025.06.12-05.56.05:154][624]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1910286694
+[2025.06.12-05.56.35:037][457]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.56.35:037][457]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.56.35:038][457]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_21
+[2025.06.12-05.56.35:039][457]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_21
+[2025.06.12-05.56.35:447][471]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.56.35:447][471]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.56.35:450][471]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1940584695
+[2025.06.12-05.56.35:451][471]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1940584695
+[2025.06.12-05.57.04:780][211]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.57.04:780][211]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.57.04:783][211]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_22
+[2025.06.12-05.57.04:784][211]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_22
+[2025.06.12-05.57.05:214][228]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.57.05:214][228]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.57.05:217][228]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1970351696
+[2025.06.12-05.57.05:218][228]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1970351696
+[2025.06.12-05.57.16:432][530]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.57.16:432][530]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.57.16:433][530]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_23
+[2025.06.12-05.57.16:435][530]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_23
+[2025.06.12-05.57.17:205][558]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.57.17:205][558]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.57.17:208][558]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1982342697
+[2025.06.12-05.57.17:209][558]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1982342697
+[2025.06.12-05.57.48:943][359]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.57.48:943][359]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.57.48:945][359]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_24
+[2025.06.12-05.57.48:946][359]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_24
+[2025.06.12-05.57.49:348][374]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.57.49:348][374]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.57.49:351][374]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_2014485698
+[2025.06.12-05.57.49:352][374]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_2014485698
+[2025.06.12-05.58.21:814][151]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.58.21:815][151]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.58.21:816][151]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_25
+[2025.06.12-05.58.21:817][151]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_25
+[2025.06.12-05.58.22:723][186]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.58.22:723][186]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.58.22:726][186]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_2047860699
+[2025.06.12-05.58.22:727][186]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_2047860699
+[2025.06.12-05.58.48:966][775]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.58.48:966][775]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.58.48:968][775]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_26
+[2025.06.12-05.58.48:969][775]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_26
+[2025.06.12-05.58.49:767][804]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.58.49:767][804]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/book.book_C
+[2025.06.12-05.58.49:770][804]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_2074904700
+[2025.06.12-05.58.49:771][804]LogActorFactory: Actor Factory spawned Blueprint /Game/book.book as actor: book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_2074904700
+[2025.06.12-05.59.12:084][743]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.12-05.59.12:092][743]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.06.12-05.59.12:094][743]LogWorldPartition: Display: GenerateStreaming started...
+[2025.06.12-05.59.12:094][743]LogWorldPartition: Display: GetPartitionedActors started...
+[2025.06.12-05.59.12:094][743]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 235 us)
+[2025.06.12-05.59.12:095][743]LogWorldPartition: Display: GenerateStreaming took 151 us (total: 3 ms)
+[2025.06.12-05.59.12:095][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.12-05.59.12:095][743]PIE: New page: PIE session: ThirdPersonMap (Jun 12, 2025, 7:59:12 PM)
+[2025.06.12-05.59.12:095][743]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.06.12-05.59.12:105][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009679s)
+[2025.06.12-05.59.12:105][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.009710s)
+[2025.06.12-05.59.12:105][743]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.06.12-05.59.12:105][743]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.06.12-05.59.12:105][743]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.06.12-05.59.12:106][743]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.06.12-05.59.12:106][743]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.06.12-05.59.12:106][743]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2025.06.12-05.59.12:108][743]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.06.12-05.59.12:108][743]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 585 ms)
+[2025.06.12-05.59.12:108][743]LogPlayLevel: PIE: World Init took: (0.003304s)
+[2025.06.12-05.59.12:135][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.06.12-05.59.12:137][743]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2025.06.12-05.59.12:137][743]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.12-05.59.12:137][743]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.12-05.59.12:137][743]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.12-05.59.12:137][743]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.12-05.59.12:137][743]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.12-05.59.12:137][743]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.06.12-05.59.12:137][743]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.12-05.59.12:137][743]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.12-05.59.12:137][743]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.12-05.59.12:137][743]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.12-05.59.12:137][743]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.12-05.59.12:139][743]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.12-05.59.12:148][743]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2025.06.12-05.59.12:148][743]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.12-05.59.12:148][743]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.12-05.59.12:148][743]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.12-05.59.12:149][743]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2025.06.12-05.59.12:149][743]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2025.06.12-05.59.12:151][743]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2025.06.12-05.59.12:151][743]LogInit: FAudioDevice initialized with ID 39.
+[2025.06.12-05.59.12:151][743]LogAudio: Display: Audio Device (ID: 39) registered with world 'ThirdPersonMap'.
+[2025.06.12-05.59.12:151][743]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=10824
+[2025.06.12-05.59.12:151][743]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=39
+[2025.06.12-05.59.12:151][743]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2025.06.12-05.59.12:153][743]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.06.12-05.59.12:160][743]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2025.06.12-12.59.12
+[2025.06.12-05.59.12:160][743]LogWorld: Bringing up level for play took: 0.006409
+[2025.06.12-05.59.12:162][743]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2025.06.12-05.59.12:170][743]PIE: Server logged in
+[2025.06.12-05.59.12:170][743]PIE: Play in editor total start time 0.078 seconds.
+[2025.06.12-05.59.29:344][335]LogBlueprintUserMessages: [book_C_UAID_C46516240C435A7102_1849990692] 10
+[2025.06.12-05.59.50:949][ 88]LogBlueprintUserMessages: [book_C_UAID_C46516240C435A7102_1940584695] 20
+[2025.06.12-06.00.26:378][304]LogBlueprintUserMessages: [book_C_UAID_C46516240C435A7102_2074904700] 30
+[2025.06.12-06.00.35:057][622]LogBlueprintUserMessages: [book_C_UAID_C46516240C435A7102_1970351696] 40
+[2025.06.12-06.00.39:788][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.12-06.00.39:789][821]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.06.12-06.00.39:789][821]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.06.12-06.00.39:791][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.12-06.00.39:791][821]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.06.12-06.00.39:801][821]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.12-06.00.39:805][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.12-06.00.39:831][821]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.12-06.00.39:831][821]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2025.06.12-06.00.39:831][821]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.06.12-06.00.39:833][821]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.06.12-06.00.39:834][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.12-06.00.39:838][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.06.12-06.00.39:863][822]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2025.06.12-06.01.08:978][974]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.12-06.01.09:024][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/book_widget" FILE="../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/book_widget.uasset" SILENT=true
+[2025.06.12-06.01.09:032][974]LogSavePackage: Moving output files for package: /Game/book_widget
+[2025.06.12-06.01.09:032][974]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/book_widget30708F444D8D04AF0EB82286B6768008.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/book_widget.uasset'
+[2025.06.12-06.01.09:037][974]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 1.85 sec)
+[2025.06.12-06.01.09:043][974]AssetCheck: New page: Asset Save: book_widget
+[2025.06.12-06.01.09:043][974]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/book_widget.book_widget
+[2025.06.12-06.01.11:057][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.06.12-06.01.11:084][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.06.12-06.01.14:185][116]LogSlate: Window 'Save Content' being destroyed
+[2025.06.12-06.01.14:226][116]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.12-06.01.14:291][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.06.12-06.01.14:316][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.06.12-06.01.14:341][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.06.12-06.01.14:343][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Bar_Menu__1_" FILE="../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/UI/Bar_Menu__1_.uasset" SILENT=true
+[2025.06.12-06.01.14:360][116]LogSavePackage: Moving output files for package: /Game/UI/Bar_Menu__1_
+[2025.06.12-06.01.14:360][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Bar_Menu__1_9BBD42E04839C5B87A062F85BFC7572B.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/UI/Bar_Menu__1_.uasset'
+[2025.06.12-06.01.14:362][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/bg_nav" FILE="../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/UI/bg_nav.uasset" SILENT=true
+[2025.06.12-06.01.14:369][116]LogSavePackage: Moving output files for package: /Game/UI/bg_nav
+[2025.06.12-06.01.14:369][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/bg_nav438D933440F2288401B5C8B134B69542.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/UI/bg_nav.uasset'
+[2025.06.12-06.01.14:371][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EE/VIIQQOB5ADBLY1T7L5TSWP
+[2025.06.12-06.01.14:371][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/VIIQQOB5ADBLY1T7L5TSWP39190CA54E6A74413D32EF8B2F04A770.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EE/VIIQQOB5ADBLY1T7L5TSWP.uasset'
+[2025.06.12-06.01.14:372][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/TN/S1GHJDVSGGZRXLXUXZV8SE
+[2025.06.12-06.01.14:372][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/S1GHJDVSGGZRXLXUXZV8SEDF175AEC48D372514664A28D295AC530.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/TN/S1GHJDVSGGZRXLXUXZV8SE.uasset'
+[2025.06.12-06.01.14:373][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/PV/81QGOZAX825JN44GO7PEOZ
+[2025.06.12-06.01.14:373][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/81QGOZAX825JN44GO7PEOZBBE0B5BB460348E4CF4ADB899E82A5A0.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/PV/81QGOZAX825JN44GO7PEOZ.uasset'
+[2025.06.12-06.01.14:375][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/ZF/7VVQBQ929OX2HI3WAB7GRT
+[2025.06.12-06.01.14:375][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/7VVQBQ929OX2HI3WAB7GRT7F583C504698F53C0A672CA6B03A57FE.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/ZF/7VVQBQ929OX2HI3WAB7GRT.uasset'
+[2025.06.12-06.01.14:376][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/0P/H6VTJF3BTRJIKB82X0NYRJ
+[2025.06.12-06.01.14:376][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/H6VTJF3BTRJIKB82X0NYRJ30F0DE4748599257C8212CA2482EFD17.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/0P/H6VTJF3BTRJIKB82X0NYRJ.uasset'
+[2025.06.12-06.01.14:378][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/DJ/D6I9BTJVTMNI253CQSXP2B
+[2025.06.12-06.01.14:378][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/D6I9BTJVTMNI253CQSXP2B95E733B44A877CDE3B8BE0B991273111.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/DJ/D6I9BTJVTMNI253CQSXP2B.uasset'
+[2025.06.12-06.01.14:379][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/0P/Y6Y5IW02VCFLJCX30KF1WN
+[2025.06.12-06.01.14:379][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Y6Y5IW02VCFLJCX30KF1WND176700F4E2F3CA8604660919011BA3B.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/0P/Y6Y5IW02VCFLJCX30KF1WN.uasset'
+[2025.06.12-06.01.14:381][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DC/QR2J1RS96LYYYTJZ35IAZJ
+[2025.06.12-06.01.14:381][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/QR2J1RS96LYYYTJZ35IAZJE56C375240C6277D7ACB0B810E5260EC.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DC/QR2J1RS96LYYYTJZ35IAZJ.uasset'
+[2025.06.12-06.01.14:382][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/Z1/C4VXRKHGHWQ100IXOTRZ1C
+[2025.06.12-06.01.14:382][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/C4VXRKHGHWQ100IXOTRZ1CA81040F6475B57E72DDB959CF9FC19E7.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/Z1/C4VXRKHGHWQ100IXOTRZ1C.uasset'
+[2025.06.12-06.01.14:384][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/T4/JP4WC7KKDP0U19GELGT4FL
+[2025.06.12-06.01.14:384][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/JP4WC7KKDP0U19GELGT4FL63B9EB334AE1EEDDA3E744B3C3F4491F.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/T4/JP4WC7KKDP0U19GELGT4FL.uasset'
+[2025.06.12-06.01.14:385][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/R8/ZTLST8JZNNJV4UKF4JRPA7
+[2025.06.12-06.01.14:385][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/ZTLST8JZNNJV4UKF4JRPA7FEDF17874B6DFBBD75D798B063561ECD.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/R8/ZTLST8JZNNJV4UKF4JRPA7.uasset'
+[2025.06.12-06.01.14:387][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/4D/7ZTANUIHHSRR5EG3T994SK
+[2025.06.12-06.01.14:387][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/7ZTANUIHHSRR5EG3T994SK824302EE4C2368E706F4FCB849F609EB.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/4D/7ZTANUIHHSRR5EG3T994SK.uasset'
+[2025.06.12-06.01.14:388][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/H3/DDI0ILI5DCZTX2KPVT0V3P
+[2025.06.12-06.01.14:388][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/DDI0ILI5DCZTX2KPVT0V3PCE7896104E1AA68DC9115397B2486876.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/H3/DDI0ILI5DCZTX2KPVT0V3P.uasset'
+[2025.06.12-06.01.14:390][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/4N/JWGB4K8LYEACR5X7YMIP75
+[2025.06.12-06.01.14:390][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/JWGB4K8LYEACR5X7YMIP75F6E03EEB45C920E0E24068BF068EBED7.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/4N/JWGB4K8LYEACR5X7YMIP75.uasset'
+[2025.06.12-06.01.14:391][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/01/SBGAGC1YWQHD283VU9EM1C
+[2025.06.12-06.01.14:391][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/SBGAGC1YWQHD283VU9EM1CADE6E166407D468A87030486819C5B30.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/01/SBGAGC1YWQHD283VU9EM1C.uasset'
+[2025.06.12-06.01.14:393][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/TT/DHTVK6F7YMN27TJ90N6MXM
+[2025.06.12-06.01.14:393][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/DHTVK6F7YMN27TJ90N6MXM8A762CE7415A77037CC7A6AD8BA550AA.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/TT/DHTVK6F7YMN27TJ90N6MXM.uasset'
+[2025.06.12-06.01.14:395][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/HK/ECH4W4W9ATZZA2SKEP842P
+[2025.06.12-06.01.14:395][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/ECH4W4W9ATZZA2SKEP842PBE94A2C34ED07C23B1F98C95B7DBBF14.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/HK/ECH4W4W9ATZZA2SKEP842P.uasset'
+[2025.06.12-06.01.14:396][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/3C/CW52B805D6XKODWHEU601H
+[2025.06.12-06.01.14:396][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/CW52B805D6XKODWHEU601H8CC00712494B572F23D3ED8C1C185790.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/3C/CW52B805D6XKODWHEU601H.uasset'
+[2025.06.12-06.01.14:398][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/ZG/BZUY60K1D4X1G4HU1U44G4
+[2025.06.12-06.01.14:398][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/BZUY60K1D4X1G4HU1U44G4A7135F1B439C0BC2219A48AE34815C2F.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/ZG/BZUY60K1D4X1G4HU1U44G4.uasset'
+[2025.06.12-06.01.14:399][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/LD/8N61ZFI27B29Z18OTA1AFK
+[2025.06.12-06.01.14:399][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/8N61ZFI27B29Z18OTA1AFKF587B9764FB439FB456BA596FC43C1A6.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/LD/8N61ZFI27B29Z18OTA1AFK.uasset'
+[2025.06.12-06.01.14:401][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/8A/7ZXSGJCCHURCIC2KIVTI28
+[2025.06.12-06.01.14:401][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/7ZXSGJCCHURCIC2KIVTI280B4104BD48A5782797A5D4BF63DFBE6A.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/8A/7ZXSGJCCHURCIC2KIVTI28.uasset'
+[2025.06.12-06.01.14:402][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/5H/0ARDDKY1NC9OSLHNXKOL9A
+[2025.06.12-06.01.14:402][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/0ARDDKY1NC9OSLHNXKOL9A10E7840B4FBD1DF424A77B8B2406B6E7.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/5H/0ARDDKY1NC9OSLHNXKOL9A.uasset'
+[2025.06.12-06.01.14:404][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/KB/D48161CFKXBS6WEGVVBQQ5
+[2025.06.12-06.01.14:404][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/D48161CFKXBS6WEGVVBQQ5CAA4A788423CF16A5ED6FF8AAB47EB8F.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/KB/D48161CFKXBS6WEGVVBQQ5.uasset'
+[2025.06.12-06.01.14:405][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/YH/FD9HO2WPRX6VQT5ND9SJH3
+[2025.06.12-06.01.14:405][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/FD9HO2WPRX6VQT5ND9SJH3D26B34744CE2F13EC6CC08A86B73C8BD.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/YH/FD9HO2WPRX6VQT5ND9SJH3.uasset'
+[2025.06.12-06.01.14:407][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3P/5XPQGER4HLPVFJE81DF7I6
+[2025.06.12-06.01.14:407][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/5XPQGER4HLPVFJE81DF7I6A3551BBE40524F607317BA9A8D473506.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3P/5XPQGER4HLPVFJE81DF7I6.uasset'
+[2025.06.12-06.01.14:408][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/W8/BVR6G43SFMNFE9G93BPF6T
+[2025.06.12-06.01.14:408][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/BVR6G43SFMNFE9G93BPF6T4ED46651454F0C297320DF85AC01818F.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/W8/BVR6G43SFMNFE9G93BPF6T.uasset'
+[2025.06.12-06.01.14:410][116]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/9H/YODQI0CBBN546ITB8ZW2VA
+[2025.06.12-06.01.14:410][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/YODQI0CBBN546ITB8ZW2VACEA966F542678390DD3CC3B8A9B2916D.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/9H/YODQI0CBBN546ITB8ZW2VA.uasset'
+[2025.06.12-06.01.14:411][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/book_nav" FILE="../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/UI/book_nav.uasset" SILENT=true
+[2025.06.12-06.01.14:412][116]LogSavePackage: Moving output files for package: /Game/UI/book_nav
+[2025.06.12-06.01.14:412][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/book_nav2CC9FFE742875C0697A9CCACC7458F51.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/UI/book_nav.uasset'
+[2025.06.12-06.01.14:412][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/lunch_nav" FILE="../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/UI/lunch_nav.uasset" SILENT=true
+[2025.06.12-06.01.14:413][116]LogSavePackage: Moving output files for package: /Game/UI/lunch_nav
+[2025.06.12-06.01.14:413][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/lunch_nav6CF2EC7B4A9B288E730F428589EF222C.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/UI/lunch_nav.uasset'
+[2025.06.12-06.01.14:414][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/pause_nav" FILE="../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/UI/pause_nav.uasset" SILENT=true
+[2025.06.12-06.01.14:416][116]LogSavePackage: Moving output files for package: /Game/UI/pause_nav
+[2025.06.12-06.01.14:416][116]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/pause_nav9D4F48164919A149B4C3EDA123079AC5.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Content/UI/pause_nav.uasset'
+[2025.06.12-06.01.14:423][116]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 2.05 sec)
+[2025.06.12-06.01.14:423][116]LogStall: Shutdown...
+[2025.06.12-06.01.14:431][116]LogStall: Shutdown complete.
+[2025.06.12-06.01.14:479][116]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.06.12-06.01.14:479][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.12-06.01.14:552][116]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.06.12-06.01.14:552][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.12-06.01.14:557][116]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.06.12-06.01.14:557][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.12-06.01.14:589][116]LogSlate: Window 'GAMALAND - Unreal Editor' being destroyed
+[2025.06.12-06.01.14:647][116]AssetCheck: New page: Asset Save: multiple assets
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1340016685
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1267021684
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1236243683
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1167624682
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1142617681
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/Bar_Menu__1_.Bar_Menu__1_
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/bg_nav.bg_nav
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/pause_nav.pause_nav
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/lunch_nav.lunch_nav
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/book_nav.book_nav
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C43597102_2117495501
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1119410680
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_2074904700
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_2047860699
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C43597102_2081336500
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1099134679
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_2014485698
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C43597102_2015701498
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C43597102_2052241499
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1075136678
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1982342697
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1970351696
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1396626686
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1940584695
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1467202687
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1910286694
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1877500693
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1519051688
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1551134689
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1572365690
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1849990692
+[2025.06.12-06.01.14:647][116]LogContentValidation: Display: Validating /Game/book.book_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.book_C_UAID_C46516240C435A7102_1655213691
+[2025.06.12-06.01.14:649][117]LogAutomationController: Ignoring very large delta of 3.64 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.06.12-06.01.14:649][117]Cmd: QUIT_EDITOR
+[2025.06.12-06.01.14:650][117]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.06.12-06.01.14:656][117]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.06.12-06.01.14:656][117]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.06.12-06.01.14:657][117]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.06.12-06.01.14:660][117]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.06.12-06.01.14:660][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.12-06.01.14:663][117]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.06.12-06.01.14:670][117]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.06.12-06.01.14:673][117]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.06.12-06.01.14:976][117]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.06.12-06.01.14:976][117]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.06.12-06.01.14:976][117]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2025.06.12-06.01.14:976][117]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2025.06.12-06.01.14:977][117]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.06.12-06.01.14:984][117]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.06.12-06.01.14:988][117]LogAudio: Display: Audio Device Manager Shutdown
+[2025.06.12-06.01.14:992][117]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.06.12-06.01.14:992][117]LogExit: Preparing to exit.
+[2025.06.12-06.01.15:056][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.06.12-06.01.15:065][117]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.12-06.01.15:065][117]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.12-06.01.15:090][117]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.12-06.01.15:095][117]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.12-06.01.15:096][117]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.12-06.01.15:096][117]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.12-06.01.15:096][117]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.12-06.01.15:096][117]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.12-06.01.15:096][117]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.12-06.01.15:096][117]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.12-06.01.15:097][117]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.12-06.01.15:097][117]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.12-06.01.15:098][117]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.12-06.01.15:098][117]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.12-06.01.15:098][117]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.12-06.01.15:098][117]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.12-06.01.15:099][117]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.12-06.01.15:099][117]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.12-06.01.15:101][117]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.12-06.01.15:880][117]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.06.12-06.01.15:883][117]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.06.12-06.01.15:886][117]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.06.12-06.01.15:888][117]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.06.12-06.01.15:890][117]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.06.12-06.01.15:899][117]LogDirectoryWatcher: Display: Refresh of ReadDirectoryChangesW failed. GetLastError code [6] Handle [FFFFFFFFFFFFFFFF], Path [C:/Users/Admin/Documents/Unreal Projects/gamaland/Content/]. Aborting watch request...
+[2025.06.12-06.01.15:956][117]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.06.12-06.01.15:974][117]LogExit: Editor shut down
+[2025.06.12-06.01.15:976][117]LogExit: Transaction tracking system shut down
+[2025.06.12-06.01.16:342][117]LogExit: Object subsystem successfully closed.
+[2025.06.12-06.01.16:367][117]LogShaderCompilers: Display: ================================================
+[2025.06.12-06.01.16:367][117]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.06.12-06.01.16:367][117]LogShaderCompilers: Display: Total job queries 310, among them cache hits 54 (17.42%)
+[2025.06.12-06.01.16:367][117]LogShaderCompilers: Display: Tracking 256 distinct input hashes that result in 8 distinct outputs (3.12%)
+[2025.06.12-06.01.16:367][117]LogShaderCompilers: Display: RAM used: 4.98 MiB of 819.20 MiB budget. Usage: 0.61%
+[2025.06.12-06.01.16:367][117]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.06.12-06.01.16:367][117]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.06.12-06.01.16:367][117]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2025.06.12-06.01.16:367][117]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.06.12-06.01.16:367][117]LogShaderCompilers: Display: ================================================
+[2025.06.12-06.01.16:367][117]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.06.12-06.01.16:395][117]LogVirtualization: UE::Virtualization was shutdown
+[2025.06.12-06.01.16:541][117]LogModuleManager: Shutting down and abandoning module SequencerWidgets (1017)
+[2025.06.12-06.01.16:541][117]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1015)
+[2025.06.12-06.01.16:541][117]LogModuleManager: Shutting down and abandoning module Voice (1013)
+[2025.06.12-06.01.16:541][117]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1011)
+[2025.06.12-06.01.16:541][117]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1009)
+[2025.06.12-06.01.16:541][117]LogModuleManager: Shutting down and abandoning module SceneOutliner (1007)
+[2025.06.12-06.01.16:541][117]LogModuleManager: Shutting down and abandoning module AddContentDialog (1005)
+[2025.06.12-06.01.16:543][117]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1004)
+[2025.06.12-06.01.16:543][117]LogModuleManager: Shutting down and abandoning module StatusBar (1001)
+[2025.06.12-06.01.16:543][117]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (999)
+[2025.06.12-06.01.16:543][117]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (997)
+[2025.06.12-06.01.16:543][117]LogModuleManager: Shutting down and abandoning module StatsViewer (995)
+[2025.06.12-06.01.16:543][117]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (993)
+[2025.06.12-06.01.16:543][117]LogModuleManager: Shutting down and abandoning module AutomationWorker (991)
+[2025.06.12-06.01.16:544][117]LogModuleManager: Shutting down and abandoning module WaveTableEditor (989)
+[2025.06.12-06.01.16:545][117]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (987)
+[2025.06.12-06.01.16:545][117]LogModuleManager: Shutting down and abandoning module GooglePADEditor (985)
+[2025.06.12-06.01.16:545][117]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (983)
+[2025.06.12-06.01.16:545][117]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (981)
+[2025.06.12-06.01.16:545][117]LogModuleManager: Shutting down and abandoning module TextureAlignMode (979)
+[2025.06.12-06.01.16:545][117]LogModuleManager: Shutting down and abandoning module BspMode (977)
+[2025.06.12-06.01.16:545][117]LogModuleManager: Shutting down and abandoning module GeometryMode (975)
+[2025.06.12-06.01.16:546][117]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (973)
+[2025.06.12-06.01.16:546][117]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (971)
+[2025.06.12-06.01.16:547][117]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (969)
+[2025.06.12-06.01.16:547][117]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (967)
+[2025.06.12-06.01.16:549][117]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (965)
+[2025.06.12-06.01.16:550][117]LogModuleManager: Shutting down and abandoning module PlanarCut (963)
+[2025.06.12-06.01.16:551][117]LogModuleManager: Shutting down and abandoning module FractureEngine (961)
+[2025.06.12-06.01.16:551][117]LogModuleManager: Shutting down and abandoning module CharacterAI (959)
+[2025.06.12-06.01.16:551][117]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (957)
+[2025.06.12-06.01.16:552][117]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (955)
+[2025.06.12-06.01.16:552][117]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (953)
+[2025.06.12-06.01.16:552][117]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (951)
+[2025.06.12-06.01.16:552][117]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (949)
+[2025.06.12-06.01.16:552][117]LogModuleManager: Shutting down and abandoning module WebMMedia (947)
+[2025.06.12-06.01.16:553][117]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (945)
+[2025.06.12-06.01.16:554][117]LogModuleManager: Shutting down and abandoning module SequenceRecorder (944)
+[2025.06.12-06.01.16:555][117]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (941)
+[2025.06.12-06.01.16:555][117]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (939)
+[2025.06.12-06.01.16:555][117]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (937)
+[2025.06.12-06.01.16:557][117]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (935)
+[2025.06.12-06.01.16:557][117]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (933)
+[2025.06.12-06.01.16:557][117]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (931)
+[2025.06.12-06.01.16:557][117]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (929)
+[2025.06.12-06.01.16:557][117]LogModuleManager: Shutting down and abandoning module IKRigEditor (927)
+[2025.06.12-06.01.16:559][117]LogModuleManager: Shutting down and abandoning module ControlRigEditor (925)
+[2025.06.12-06.01.16:563][117]LogModuleManager: Shutting down and abandoning module SmartSnapping (923)
+[2025.06.12-06.01.16:563][117]LogModuleManager: Shutting down and abandoning module SessionServices (921)
+[2025.06.12-06.01.16:564][117]LogModuleManager: Shutting down and abandoning module MeshPaint (919)
+[2025.06.12-06.01.16:565][117]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (917)
+[2025.06.12-06.01.16:566][117]LogModuleManager: Shutting down and abandoning module PlacementMode (916)
+[2025.06.12-06.01.16:567][117]LogModuleManager: Shutting down and abandoning module FoliageEdit (913)
+[2025.06.12-06.01.16:569][117]LogModuleManager: Shutting down and abandoning module LandscapeEditor (911)
+[2025.06.12-06.01.16:573][117]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (909)
+[2025.06.12-06.01.16:573][117]LogModuleManager: Shutting down and abandoning module ActorPickerMode (907)
+[2025.06.12-06.01.16:573][117]LogModuleManager: Shutting down and abandoning module ViewportSnapping (905)
+[2025.06.12-06.01.16:573][117]LogModuleManager: Shutting down and abandoning module ViewportInteraction (903)
+[2025.06.12-06.01.16:573][117]LogModuleManager: Shutting down and abandoning module ClothPainter (901)
+[2025.06.12-06.01.16:574][117]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (900)
+[2025.06.12-06.01.16:575][117]LogModuleManager: Shutting down and abandoning module LogVisualizer (897)
+[2025.06.12-06.01.16:578][117]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (895)
+[2025.06.12-06.01.16:579][117]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (893)
+[2025.06.12-06.01.16:579][117]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (892)
+[2025.06.12-06.01.16:581][117]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (890)
+[2025.06.12-06.01.17:433][117]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (887)
+[2025.06.12-06.01.17:433][117]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (885)
+[2025.06.12-06.01.17:433][117]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (883)
+[2025.06.12-06.01.17:433][117]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (881)
+[2025.06.12-06.01.17:433][117]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (879)
+[2025.06.12-06.01.17:434][117]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (877)
+[2025.06.12-06.01.17:434][117]LogModuleManager: Shutting down and abandoning module AnimationSettings (875)
+[2025.06.12-06.01.17:434][117]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (873)
+[2025.06.12-06.01.17:434][117]LogModuleManager: Shutting down and abandoning module CSVtoSVG (871)
+[2025.06.12-06.01.17:434][117]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (869)
+[2025.06.12-06.01.17:434][117]LogModuleManager: Shutting down and abandoning module EditorConfig (867)
+[2025.06.12-06.01.17:434][117]LogModuleManager: Shutting down and abandoning module EditorFramework (865)
+[2025.06.12-06.01.17:434][117]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (863)
+[2025.06.12-06.01.17:436][117]LogModuleManager: Shutting down and abandoning module TraceInsights (861)
+[2025.06.12-06.01.17:443][117]MemoryProfiler: Shutdown
+[2025.06.12-06.01.17:444][117]NetworkingProfiler: Shutdown
+[2025.06.12-06.01.17:445][117]LoadingProfiler: Shutdown
+[2025.06.12-06.01.17:446][117]TimingProfiler: Shutdown
+[2025.06.12-06.01.17:450][117]LogModuleManager: Shutting down and abandoning module TraceServices (860)
+[2025.06.12-06.01.17:452][117]LogModuleManager: Shutting down and abandoning module TraceAnalysis (859)
+[2025.06.12-06.01.17:452][117]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (855)
+[2025.06.12-06.01.17:452][117]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (854)
+[2025.06.12-06.01.17:453][117]LogModuleManager: Shutting down and abandoning module InputBindingEditor (851)
+[2025.06.12-06.01.17:453][117]LogModuleManager: Shutting down and abandoning module MergeActors (849)
+[2025.06.12-06.01.17:454][117]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (847)
+[2025.06.12-06.01.17:455][117]LogModuleManager: Shutting down and abandoning module LocalizationService (846)
+[2025.06.12-06.01.17:455][117]LogModuleManager: Shutting down and abandoning module HardwareTargeting (843)
+[2025.06.12-06.01.17:455][117]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (841)
+[2025.06.12-06.01.17:456][117]LogModuleManager: Shutting down and abandoning module UndoHistory (839)
+[2025.06.12-06.01.17:456][117]LogModuleManager: Shutting down and abandoning module XmlParser (837)
+[2025.06.12-06.01.17:457][117]LogModuleManager: Shutting down and abandoning module Blutility (835)
+[2025.06.12-06.01.17:457][117]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (833)
+[2025.06.12-06.01.17:457][117]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (832)
+[2025.06.12-06.01.17:457][117]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (829)
+[2025.06.12-06.01.17:457][117]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (828)
+[2025.06.12-06.01.17:457][117]LogModuleManager: Shutting down and abandoning module SettingsEditor (825)
+[2025.06.12-06.01.17:458][117]LogModuleManager: Shutting down and abandoning module ProjectLauncher (823)
+[2025.06.12-06.01.17:458][117]LogModuleManager: Shutting down and abandoning module SessionFrontend (821)
+[2025.06.12-06.01.17:459][117]LogModuleManager: Shutting down and abandoning module ProfilerClient (819)
+[2025.06.12-06.01.17:459][117]LogModuleManager: Shutting down and abandoning module DeviceManager (817)
+[2025.06.12-06.01.17:460][117]LogModuleManager: Shutting down and abandoning module AutomationController (815)
+[2025.06.12-06.01.17:462][117]LogModuleManager: Shutting down and abandoning module AutomationWindow (813)
+[2025.06.12-06.01.17:464][117]LogModuleManager: Shutting down and abandoning module Layers (811)
+[2025.06.12-06.01.17:467][117]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (809)
+[2025.06.12-06.01.17:467][117]LogModuleManager: Shutting down and abandoning module DetailCustomizations (807)
+[2025.06.12-06.01.17:467][117]LogModuleManager: Shutting down and abandoning module PackagesDialog (805)
+[2025.06.12-06.01.17:467][117]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (803)
+[2025.06.12-06.01.17:469][117]LogModuleManager: Shutting down and abandoning module Persona (801)
+[2025.06.12-06.01.17:472][117]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (800)
+[2025.06.12-06.01.17:472][117]LogModuleManager: Shutting down and abandoning module Kismet (797)
+[2025.06.12-06.01.17:481][117]LogModuleManager: Shutting down and abandoning module KismetWidgets (796)
+[2025.06.12-06.01.17:481][117]LogModuleManager: Shutting down and abandoning module GraphEditor (793)
+[2025.06.12-06.01.17:481][117]LogModuleManager: Shutting down and abandoning module StructViewer (791)
+[2025.06.12-06.01.17:481][117]LogModuleManager: Shutting down and abandoning module ClassViewer (789)
+[2025.06.12-06.01.17:481][117]LogModuleManager: Shutting down and abandoning module NaniteTools (787)
+[2025.06.12-06.01.17:481][117]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (785)
+[2025.06.12-06.01.17:482][117]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (783)
+[2025.06.12-06.01.17:482][117]LogModuleManager: Shutting down and abandoning module SourceControlWindows (781)
+[2025.06.12-06.01.17:483][117]LogModuleManager: Shutting down and abandoning module OutputLog (779)
+[2025.06.12-06.01.17:484][117]LogModuleManager: Shutting down and abandoning module Documentation (777)
+[2025.06.12-06.01.17:484][117]LogModuleManager: Shutting down and abandoning module LiveCoding (775)
+[2025.06.12-06.01.17:494][117]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (773)
+[2025.06.12-06.01.17:495][117]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (771)
+[2025.06.12-06.01.17:495][117]LogModuleManager: Shutting down and abandoning module MovieScene (769)
+[2025.06.12-06.01.17:495][117]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (767)
+[2025.06.12-06.01.17:496][117]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (765)
+[2025.06.12-06.01.17:496][117]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (763)
+[2025.06.12-06.01.17:496][117]LogModuleManager: Shutting down and abandoning module AudioMixer (762)
+[2025.06.12-06.01.17:496][117]LogModuleManager: Shutting down and abandoning module AudioMixerCore (761)
+[2025.06.12-06.01.17:496][117]LogModuleManager: Shutting down and abandoning module LauncherPlatform (757)
+[2025.06.12-06.01.17:496][117]LogModuleManager: Shutting down and abandoning module AnalyticsET (755)
+[2025.06.12-06.01.17:496][117]LogModuleManager: Shutting down and abandoning module PortalServices (753)
+[2025.06.12-06.01.17:496][117]LogModuleManager: Shutting down and abandoning module PortalRpc (751)
+[2025.06.12-06.01.17:496][117]LogModuleManager: Shutting down and abandoning module MessagingRpc (749)
+[2025.06.12-06.01.17:496][117]LogModuleManager: Shutting down and abandoning module AIModule (747)
+[2025.06.12-06.01.17:496][117]LogModuleManager: Shutting down and abandoning module GameplayDebugger (746)
+[2025.06.12-06.01.17:496][117]LogModuleManager: Shutting down and abandoning module AITestSuite (744)
+[2025.06.12-06.01.17:497][117]LogModuleManager: Shutting down and abandoning module NavigationSystem (742)
+[2025.06.12-06.01.17:497][117]LogModuleManager: Shutting down and abandoning module DataLayerEditor (739)
+[2025.06.12-06.01.17:497][117]LogModuleManager: Shutting down and abandoning module EditorWidgets (738)
+[2025.06.12-06.01.17:497][117]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (735)
+[2025.06.12-06.01.17:497][117]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (733)
+[2025.06.12-06.01.17:497][117]LogModuleManager: Shutting down and abandoning module TypedElementFramework (731)
+[2025.06.12-06.01.17:497][117]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (729)
+[2025.06.12-06.01.17:497][117]LogModuleManager: Shutting down and abandoning module ProfilerService (727)
+[2025.06.12-06.01.17:537][117]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (725)
+[2025.06.12-06.01.17:539][117]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (723)
+[2025.06.12-06.01.17:539][117]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (721)
+[2025.06.12-06.01.17:540][117]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (719)
+[2025.06.12-06.01.17:540][117]LogModuleManager: Shutting down and abandoning module TakesCore (717)
+[2025.06.12-06.01.17:540][117]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (715)
+[2025.06.12-06.01.17:540][117]LogModuleManager: Shutting down and abandoning module MegascansPlugin (713)
+[2025.06.12-06.01.17:540][117]LogModuleManager: Shutting down and abandoning module Bridge (711)
+[2025.06.12-06.01.17:540][117]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (709)
+[2025.06.12-06.01.17:540][117]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (707)
+[2025.06.12-06.01.17:541][117]LogModuleManager: Shutting down and abandoning module CollectionManager (706)
+[2025.06.12-06.01.17:541][117]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (703)
+[2025.06.12-06.01.17:541][117]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (701)
+[2025.06.12-06.01.17:543][117]LogModuleManager: Shutting down and abandoning module LightMixer (699)
+[2025.06.12-06.01.17:543][117]LogModuleManager: Shutting down and abandoning module TakeSequencer (697)
+[2025.06.12-06.01.17:543][117]LogModuleManager: Shutting down and abandoning module TakeMovieScene (695)
+[2025.06.12-06.01.17:543][117]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (691)
+[2025.06.12-06.01.17:543][117]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (689)
+[2025.06.12-06.01.17:543][117]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (687)
+[2025.06.12-06.01.17:544][117]LogModuleManager: Shutting down and abandoning module InterchangePipelines (685)
+[2025.06.12-06.01.17:544][117]LogModuleManager: Shutting down and abandoning module InterchangeExport (683)
+[2025.06.12-06.01.17:544][117]LogModuleManager: Shutting down and abandoning module InterchangeMessages (681)
+[2025.06.12-06.01.17:544][117]LogModuleManager: Shutting down and abandoning module InterchangeImport (679)
+[2025.06.12-06.01.17:544][117]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (677)
+[2025.06.12-06.01.17:544][117]LogModuleManager: Shutting down and abandoning module InterchangeNodes (675)
+[2025.06.12-06.01.17:544][117]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (673)
+[2025.06.12-06.01.17:544][117]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (671)
+[2025.06.12-06.01.17:544][117]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (669)
+[2025.06.12-06.01.17:545][117]LogModuleManager: Shutting down and abandoning module InterchangeEditor (667)
+[2025.06.12-06.01.17:545][117]LogModuleManager: Shutting down and abandoning module SynthesisEditor (665)
+[2025.06.12-06.01.17:545][117]LogModuleManager: Shutting down and abandoning module ResonanceAudio (663)
+[2025.06.12-06.01.17:545][117]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (661)
+[2025.06.12-06.01.17:545][117]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (659)
+[2025.06.12-06.01.17:545][117]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (657)
+[2025.06.12-06.01.17:545][117]LogModuleManager: Shutting down and abandoning module ModelingOperators (655)
+[2025.06.12-06.01.17:545][117]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (653)
+[2025.06.12-06.01.17:545][117]LogModuleManager: Shutting down and abandoning module ModelingComponents (651)
+[2025.06.12-06.01.17:546][117]LogModuleManager: Shutting down and abandoning module GeometryFramework (650)
+[2025.06.12-06.01.17:547][117]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (647)
+[2025.06.12-06.01.17:548][117]LogModuleManager: Shutting down and abandoning module MeshModelingTools (645)
+[2025.06.12-06.01.17:548][117]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (643)
+[2025.06.12-06.01.17:548][117]LogModuleManager: Shutting down and abandoning module InputDebugging (641)
+[2025.06.12-06.01.17:548][117]LogModuleManager: Shutting down and abandoning module GooglePAD (639)
+[2025.06.12-06.01.17:548][117]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (637)
+[2025.06.12-06.01.17:548][117]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (635)
+[2025.06.12-06.01.17:548][117]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (633)
+[2025.06.12-06.01.17:548][117]LogModuleManager: Shutting down and abandoning module DynamicMesh (631)
+[2025.06.12-06.01.17:549][117]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (629)
+[2025.06.12-06.01.17:550][117]LogModuleManager: Shutting down and abandoning module AudioCapture (627)
+[2025.06.12-06.01.17:550][117]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (626)
+[2025.06.12-06.01.17:550][117]LogModuleManager: Shutting down and abandoning module AssetTags (623)
+[2025.06.12-06.01.17:550][117]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (621)
+[2025.06.12-06.01.17:550][117]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (619)
+[2025.06.12-06.01.17:550][117]LogModuleManager: Shutting down and abandoning module AppleImageUtils (617)
+[2025.06.12-06.01.17:550][117]LogModuleManager: Shutting down and abandoning module AndroidPermission (615)
+[2025.06.12-06.01.17:550][117]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (613)
+[2025.06.12-06.01.17:550][117]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (611)
+[2025.06.12-06.01.17:550][117]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (609)
+[2025.06.12-06.01.17:550][117]LogModuleManager: Shutting down and abandoning module StylusInput (607)
+[2025.06.12-06.01.17:550][117]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (605)
+[2025.06.12-06.01.17:550][117]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (603)
+[2025.06.12-06.01.17:550][117]LogModuleManager: Shutting down and abandoning module PluginBrowser (601)
+[2025.06.12-06.01.17:552][117]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (599)
+[2025.06.12-06.01.17:553][117]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (597)
+[2025.06.12-06.01.17:553][117]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (595)
+[2025.06.12-06.01.17:554][117]LogModuleManager: Shutting down and abandoning module GLTFImporter (593)
+[2025.06.12-06.01.17:554][117]LogModuleManager: Shutting down and abandoning module GLTFCore (591)
+[2025.06.12-06.01.17:554][117]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (589)
+[2025.06.12-06.01.17:554][117]LogModuleManager: Shutting down and abandoning module EditorDebugTools (587)
+[2025.06.12-06.01.17:555][117]LogModuleManager: Shutting down and abandoning module CurveEditorTools (585)
+[2025.06.12-06.01.17:555][117]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (583)
+[2025.06.12-06.01.17:555][117]LogModuleManager: Shutting down and abandoning module CryptoKeys (581)
+[2025.06.12-06.01.17:555][117]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (579)
+[2025.06.12-06.01.17:555][117]LogModuleManager: Shutting down and abandoning module ChangelistReview (577)
+[2025.06.12-06.01.17:556][117]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (575)
+[2025.06.12-06.01.17:556][117]LogModuleManager: Shutting down and abandoning module InterchangeTests (573)
+[2025.06.12-06.01.17:556][117]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (571)
+[2025.06.12-06.01.17:556][117]LogModuleManager: Shutting down and abandoning module SequencerScripting (569)
+[2025.06.12-06.01.17:556][117]LogModuleManager: Shutting down and abandoning module TemplateSequence (567)
+[2025.06.12-06.01.17:556][117]LogModuleManager: Shutting down and abandoning module AlembicImporter (565)
+[2025.06.12-06.01.17:556][117]LogModuleManager: Shutting down and abandoning module AlembicLibrary (564)
+[2025.06.12-06.01.17:556][117]LogModuleManager: Shutting down and abandoning module GeometryCache (563)
+[2025.06.12-06.01.17:557][117]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (562)
+[2025.06.12-06.01.17:557][117]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (557)
+[2025.06.12-06.01.17:557][117]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (555)
+[2025.06.12-06.01.17:557][117]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (553)
+[2025.06.12-06.01.17:557][117]LogModuleManager: Shutting down and abandoning module UObjectPlugin (551)
+[2025.06.12-06.01.17:557][117]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (549)
+[2025.06.12-06.01.17:559][117]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (547)
+[2025.06.12-06.01.17:559][117]LogModuleManager: Shutting down and abandoning module PluginUtils (545)
+[2025.06.12-06.01.17:559][117]LogModuleManager: Shutting down and abandoning module GitSourceControl (543)
+[2025.06.12-06.01.17:561][117]LogModuleManager: Shutting down and abandoning module DumpGPUServices (541)
+[2025.06.12-06.01.17:561][117]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (539)
+[2025.06.12-06.01.17:561][117]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (537)
+[2025.06.12-06.01.17:561][117]LogModuleManager: Shutting down and abandoning module VariantManager (535)
+[2025.06.12-06.01.17:565][117]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (534)
+[2025.06.12-06.01.17:565][117]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (531)
+[2025.06.12-06.01.17:568][117]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (529)
+[2025.06.12-06.01.17:568][117]LogModuleManager: Shutting down and abandoning module UVEditorTools (527)
+[2025.06.12-06.01.17:569][117]LogModuleManager: Shutting down and abandoning module UVEditor (525)
+[2025.06.12-06.01.17:570][117]LogModuleManager: Shutting down and abandoning module PresetAsset (523)
+[2025.06.12-06.01.17:570][117]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (521)
+[2025.06.12-06.01.17:570][117]LogOpenImageDenoise: OIDN shutting down
+[2025.06.12-06.01.17:570][117]LogModuleManager: Shutting down and abandoning module MeshLODToolset (519)
+[2025.06.12-06.01.17:570][117]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (517)
+[2025.06.12-06.01.17:570][117]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (515)
+[2025.06.12-06.01.17:572][117]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (513)
+[2025.06.12-06.01.17:573][117]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (511)
+[2025.06.12-06.01.17:574][117]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (509)
+[2025.06.12-06.01.17:574][117]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (507)
+[2025.06.12-06.01.17:575][117]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (505)
+[2025.06.12-06.01.17:575][117]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (503)
+[2025.06.12-06.01.17:575][117]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (501)
+[2025.06.12-06.01.17:575][117]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (500)
+[2025.06.12-06.01.17:575][117]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (498)
+[2025.06.12-06.01.17:575][117]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (495)
+[2025.06.12-06.01.17:575][117]LogModuleManager: Shutting down and abandoning module DataflowNodes (493)
+[2025.06.12-06.01.17:575][117]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (491)
+[2025.06.12-06.01.17:575][117]LogModuleManager: Shutting down and abandoning module DataflowEditor (489)
+[2025.06.12-06.01.17:576][117]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (487)
+[2025.06.12-06.01.17:576][117]LogModuleManager: Shutting down and abandoning module ChaosNiagara (485)
+[2025.06.12-06.01.17:576][117]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (483)
+[2025.06.12-06.01.17:576][117]LogModuleManager: Shutting down and abandoning module FractureEditor (481)
+[2025.06.12-06.01.17:578][117]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (479)
+[2025.06.12-06.01.17:578][117]LogModuleManager: Shutting down and abandoning module BackChannel (477)
+[2025.06.12-06.01.17:579][117]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (475)
+[2025.06.12-06.01.17:579][117]LogModuleManager: Shutting down and abandoning module AutomationUtils (473)
+[2025.06.12-06.01.17:579][117]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (471)
+[2025.06.12-06.01.17:579][117]LogModuleManager: Shutting down and abandoning module MediaPlate (469)
+[2025.06.12-06.01.17:579][117]LogModuleManager: Shutting down and abandoning module MediaCompositing (467)
+[2025.06.12-06.01.17:579][117]LogModuleManager: Shutting down and abandoning module ImgMedia (465)
+[2025.06.12-06.01.17:580][117]LogModuleManager: Shutting down and abandoning module ControlRigSpline (463)
+[2025.06.12-06.01.17:580][117]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (461)
+[2025.06.12-06.01.17:580][117]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (459)
+[2025.06.12-06.01.17:580][117]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (457)
+[2025.06.12-06.01.17:582][117]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (455)
+[2025.06.12-06.01.17:582][117]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (453)
+[2025.06.12-06.01.17:582][117]LogModuleManager: Shutting down and abandoning module Paper2DEditor (451)
+[2025.06.12-06.01.17:584][117]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (449)
+[2025.06.12-06.01.17:584][117]LogModuleManager: Shutting down and abandoning module TraceUtilities (447)
+[2025.06.12-06.01.17:584][117]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (445)
+[2025.06.12-06.01.17:585][117]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (443)
+[2025.06.12-06.01.17:585][117]LogModuleManager: Shutting down and abandoning module InputEditor (441)
+[2025.06.12-06.01.17:586][117]LogModuleManager: Shutting down and abandoning module BlueprintGraph (440)
+[2025.06.12-06.01.17:586][117]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (437)
+[2025.06.12-06.01.17:587][117]LogModuleManager: Shutting down and abandoning module Synthesis (435)
+[2025.06.12-06.01.17:588][117]LogModuleManager: Shutting down and abandoning module SoundFields (433)
+[2025.06.12-06.01.17:588][117]LogModuleManager: Shutting down and abandoning module SignificanceManager (431)
+[2025.06.12-06.01.17:588][117]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (429)
+[2025.06.12-06.01.17:588][117]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (427)
+[2025.06.12-06.01.17:588][117]LogModuleManager: Shutting down and abandoning module MetasoundEditor (425)
+[2025.06.12-06.01.17:591][117]LogModuleManager: Shutting down and abandoning module AudioWidgets (424)
+[2025.06.12-06.01.17:591][117]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (423)
+[2025.06.12-06.01.17:594][117]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (419)
+[2025.06.12-06.01.17:594][117]LogModuleManager: Shutting down and abandoning module MetasoundEngine (417)
+[2025.06.12-06.01.17:594][117]LogModuleManager: Shutting down and abandoning module WaveTable (416)
+[2025.06.12-06.01.17:594][117]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (414)
+[2025.06.12-06.01.17:594][117]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (411)
+[2025.06.12-06.01.17:594][117]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (409)
+[2025.06.12-06.01.17:596][117]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (407)
+[2025.06.12-06.01.17:596][117]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (405)
+[2025.06.12-06.01.17:596][117]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (403)
+[2025.06.12-06.01.17:596][117]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (401)
+[2025.06.12-06.01.17:596][117]LogModuleManager: Shutting down and abandoning module CableComponent (399)
+[2025.06.12-06.01.17:597][117]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (397)
+[2025.06.12-06.01.17:597][117]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (396)
+[2025.06.12-06.01.17:597][117]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (393)
+[2025.06.12-06.01.17:597][117]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (391)
+[2025.06.12-06.01.17:598][117]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (389)
+[2025.06.12-06.01.17:598][117]LogModuleManager: Shutting down and abandoning module FacialAnimation (387)
+[2025.06.12-06.01.17:598][117]LogModuleManager: Shutting down and abandoning module DataValidation (385)
+[2025.06.12-06.01.17:598][117]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (383)
+[2025.06.12-06.01.17:599][117]LogModuleManager: Shutting down and abandoning module TreeMap (382)
+[2025.06.12-06.01.17:599][117]LogModuleManager: Shutting down and abandoning module GameplayCameras (379)
+[2025.06.12-06.01.17:599][117]LogModuleManager: Shutting down and abandoning module ActorSequence (377)
+[2025.06.12-06.01.17:599][117]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (375)
+[2025.06.12-06.01.17:600][117]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (373)
+[2025.06.12-06.01.17:600][117]LogModuleManager: Shutting down and abandoning module AnimationSharing (371)
+[2025.06.12-06.01.17:600][117]LogModuleManager: Shutting down and abandoning module UdpMessaging (369)
+[2025.06.12-06.01.17:702][117]LogModuleManager: Shutting down and abandoning module TcpMessaging (367)
+[2025.06.12-06.01.17:803][117]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (365)
+[2025.06.12-06.01.17:803][117]LogModuleManager: Shutting down and abandoning module PBIK (363)
+[2025.06.12-06.01.17:803][117]LogModuleManager: Shutting down and abandoning module FullBodyIK (361)
+[2025.06.12-06.01.17:803][117]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (359)
+[2025.06.12-06.01.17:803][117]LogModuleManager: Shutting down and abandoning module TakeRecorder (358)
+[2025.06.12-06.01.17:805][117]LogModuleManager: Shutting down and abandoning module LevelEditor (356)
+[2025.06.12-06.01.17:808][117]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (355)
+[2025.06.12-06.01.17:809][117]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (353)
+[2025.06.12-06.01.17:809][117]LogModuleManager: Shutting down and abandoning module MainFrame (351)
+[2025.06.12-06.01.17:809][117]LogModuleManager: Shutting down and abandoning module HotReload (350)
+[2025.06.12-06.01.17:809][117]LogModuleManager: Shutting down and abandoning module ChaosCaching (345)
+[2025.06.12-06.01.17:809][117]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (343)
+[2025.06.12-06.01.17:809][117]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (341)
+[2025.06.12-06.01.17:809][117]LogModuleManager: Shutting down and abandoning module IKRig (339)
+[2025.06.12-06.01.17:809][117]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (337)
+[2025.06.12-06.01.17:809][117]LogModuleManager: Shutting down and abandoning module ControlRig (335)
+[2025.06.12-06.01.17:809][117]LogModuleManager: Shutting down and abandoning module Constraints (334)
+[2025.06.12-06.01.17:809][117]LogModuleManager: Shutting down and abandoning module LevelSequence (332)
+[2025.06.12-06.01.17:809][117]LogModuleManager: Shutting down and abandoning module AnimationData (329)
+[2025.06.12-06.01.17:809][117]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (327)
+[2025.06.12-06.01.17:809][117]LogModuleManager: Shutting down and abandoning module Niagara (325)
+[2025.06.12-06.01.17:810][117]LogModuleManager: Shutting down and abandoning module SignalProcessing (324)
+[2025.06.12-06.01.17:811][117]LogModuleManager: Shutting down and abandoning module NiagaraEditor (322)
+[2025.06.12-06.01.17:812][117]LogModuleManager: Shutting down and abandoning module ContentBrowser (321)
+[2025.06.12-06.01.17:812][117]LogModuleManager: Shutting down and abandoning module ToolMenus (320)
+[2025.06.12-06.01.17:812][117]LogModuleManager: Shutting down and abandoning module ContentBrowserData (318)
+[2025.06.12-06.01.17:812][117]LogModuleManager: Shutting down and abandoning module NiagaraCore (313)
+[2025.06.12-06.01.17:812][117]LogModuleManager: Shutting down and abandoning module Paper2D (311)
+[2025.06.12-06.01.17:813][117]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (309)
+[2025.06.12-06.01.17:813][117]LogModuleManager: Shutting down and abandoning module EnhancedInput (307)
+[2025.06.12-06.01.17:813][117]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (305)
+[2025.06.12-06.01.17:815][117]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (303)
+[2025.06.12-06.01.17:815][117]LogModuleManager: Shutting down and abandoning module AndroidFileServer (301)
+[2025.06.12-06.01.17:815][117]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (299)
+[2025.06.12-06.01.17:815][117]LogModuleManager: Shutting down and abandoning module PacketHandler (297)
+[2025.06.12-06.01.17:815][117]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (295)
+[2025.06.12-06.01.17:815][117]LogModuleManager: Shutting down and abandoning module AnimGraph (293)
+[2025.06.12-06.01.17:815][117]LogModuleManager: Shutting down and abandoning module TimeManagement (291)
+[2025.06.12-06.01.17:816][117]LogModuleManager: Shutting down and abandoning module AnimationDataController (289)
+[2025.06.12-06.01.17:816][117]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (287)
+[2025.06.12-06.01.17:816][117]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (285)
+[2025.06.12-06.01.17:816][117]LogModuleManager: Shutting down and abandoning module MediaAssets (283)
+[2025.06.12-06.01.17:816][117]LogModuleManager: Shutting down and abandoning module Overlay (281)
+[2025.06.12-06.01.17:816][117]LogModuleManager: Shutting down and abandoning module OverlayEditor (280)
+[2025.06.12-06.01.17:816][117]LogModuleManager: Shutting down and abandoning module VREditor (277)
+[2025.06.12-06.01.17:816][117]LogModuleManager: Shutting down and abandoning module StringTableEditor (275)
+[2025.06.12-06.01.17:818][117]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (273)
+[2025.06.12-06.01.17:818][117]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (271)
+[2025.06.12-06.01.17:820][117]LogModuleManager: Shutting down and abandoning module FunctionalTesting (269)
+[2025.06.12-06.01.17:820][117]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (267)
+[2025.06.12-06.01.17:821][117]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (266)
+[2025.06.12-06.01.17:822][117]LogModuleManager: Shutting down and abandoning module UMG (263)
+[2025.06.12-06.01.17:822][117]LogModuleManager: Shutting down and abandoning module UMGEditor (262)
+[2025.06.12-06.01.17:822][117]LogModuleManager: Shutting down and abandoning module EditorStyle (257)
+[2025.06.12-06.01.17:822][117]LogModuleManager: Shutting down and abandoning module SlateReflector (255)
+[2025.06.12-06.01.17:827][117]LogModuleManager: Shutting down and abandoning module Slate (253)
+[2025.06.12-06.01.17:828][117]LogModuleManager: Shutting down and abandoning module SlateCore (251)
+[2025.06.12-06.01.17:829][117]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (249)
+[2025.06.12-06.01.17:829][117]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (247)
+[2025.06.12-06.01.17:829][117]LogModuleManager: Shutting down and abandoning module UnrealEd (245)
+[2025.06.12-06.01.17:829][117]LogModuleManager: Shutting down and abandoning module MRMesh (243)
+[2025.06.12-06.01.17:829][117]LogModuleManager: Shutting down and abandoning module Messaging (241)
+[2025.06.12-06.01.17:829][117]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (239)
+[2025.06.12-06.01.17:829][117]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (237)
+[2025.06.12-06.01.17:830][117]LogModuleManager: Shutting down and abandoning module Networking (235)
+[2025.06.12-06.01.17:830][117]LogModuleManager: Shutting down and abandoning module Core (233)
+[2025.06.12-06.01.17:830][117]LogModuleManager: Shutting down and abandoning module AssetDefinition (231)
+[2025.06.12-06.01.17:830][117]LogModuleManager: Shutting down and abandoning module MovieSceneTools (229)
+[2025.06.12-06.01.17:831][117]LogModuleManager: Shutting down and abandoning module CurveEditor (228)
+[2025.06.12-06.01.17:831][117]LogModuleManager: Shutting down and abandoning module Sequencer (226)
+[2025.06.12-06.01.17:831][117]LogModuleManager: Shutting down and abandoning module KismetCompiler (223)
+[2025.06.12-06.01.17:831][117]LogModuleManager: Shutting down and abandoning module MeshBuilder (221)
+[2025.06.12-06.01.17:832][117]LogModuleManager: Shutting down and abandoning module NaniteBuilder (219)
+[2025.06.12-06.01.17:833][117]LogModuleManager: Shutting down and abandoning module MeshUtilities (217)
+[2025.06.12-06.01.17:834][117]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (216)
+[2025.06.12-06.01.17:834][117]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (215)
+[2025.06.12-06.01.17:834][117]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (214)
+[2025.06.12-06.01.17:834][117]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (212)
+[2025.06.12-06.01.17:835][117]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (210)
+[2025.06.12-06.01.17:839][117]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (208)
+[2025.06.12-06.01.17:841][117]LogModuleManager: Shutting down and abandoning module MaterialBaking (204)
+[2025.06.12-06.01.17:841][117]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (201)
+[2025.06.12-06.01.17:852][117]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (197)
+[2025.06.12-06.01.17:852][117]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (195)
+[2025.06.12-06.01.17:852][117]LogModuleManager: Shutting down and abandoning module DerivedDataCache (193)
+[2025.06.12-06.01.17:857][117]LogModuleManager: Shutting down and abandoning module TargetPlatform (191)
+[2025.06.12-06.01.17:857][117]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (190)
+[2025.06.12-06.01.17:858][117]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (188)
+[2025.06.12-06.01.17:858][117]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (186)
+[2025.06.12-06.01.17:862][117]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (184)
+[2025.06.12-06.01.17:862][117]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (182)
+[2025.06.12-06.01.17:862][117]LogModuleManager: Shutting down and abandoning module AudioFormatBink (180)
+[2025.06.12-06.01.17:862][117]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (177)
+[2025.06.12-06.01.17:863][117]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (175)
+[2025.06.12-06.01.17:863][117]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (173)
+[2025.06.12-06.01.17:863][117]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (171)
+[2025.06.12-06.01.17:863][117]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2025.06.12-06.01.17:863][117]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (167)
+[2025.06.12-06.01.17:863][117]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (165)
+[2025.06.12-06.01.17:863][117]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (163)
+[2025.06.12-06.01.17:863][117]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (161)
+[2025.06.12-06.01.17:864][117]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (159)
+[2025.06.12-06.01.17:864][117]LogModuleManager: Shutting down and abandoning module TextureFormat (157)
+[2025.06.12-06.01.17:864][117]LogModuleManager: Shutting down and abandoning module ImageWrapper (156)
+[2025.06.12-06.01.17:864][117]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (154)
+[2025.06.12-06.01.17:865][117]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (152)
+[2025.06.12-06.01.17:865][117]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (150)
+[2025.06.12-06.01.17:865][117]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (148)
+[2025.06.12-06.01.17:865][117]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (146)
+[2025.06.12-06.01.17:865][117]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (144)
+[2025.06.12-06.01.17:865][117]LogModuleManager: Shutting down and abandoning module TurnkeySupport (141)
+[2025.06.12-06.01.17:865][117]LogModuleManager: Shutting down and abandoning module InputCore (138)
+[2025.06.12-06.01.17:865][117]LogModuleManager: Shutting down and abandoning module Settings (136)
+[2025.06.12-06.01.17:865][117]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (134)
+[2025.06.12-06.01.17:866][117]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (132)
+[2025.06.12-06.01.17:866][117]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (131)
+[2025.06.12-06.01.17:866][117]LogModuleManager: Shutting down and abandoning module Chaos (128)
+[2025.06.12-06.01.17:866][117]LogModuleManager: Shutting down and abandoning module GeometryCore (127)
+[2025.06.12-06.01.17:867][117]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (124)
+[2025.06.12-06.01.17:867][117]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (123)
+[2025.06.12-06.01.17:867][117]LogModuleManager: Shutting down and abandoning module AVEncoder (122)
+[2025.06.12-06.01.17:868][117]LogModuleManager: Shutting down and abandoning module D3D12RHI (118)
+[2025.06.12-06.01.17:868][117]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (116)
+[2025.06.12-06.01.17:868][117]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (114)
+[2025.06.12-06.01.17:868][117]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (112)
+[2025.06.12-06.01.17:872][117]LogModuleManager: Shutting down and abandoning module XMPP (107)
+[2025.06.12-06.01.17:873][117]LogModuleManager: Shutting down and abandoning module WebSockets (106)
+[2025.06.12-06.01.17:903][117]LogModuleManager: Shutting down and abandoning module HTTP (103)
+[2025.06.12-06.01.17:903][117]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2025.06.12-06.01.17:903][117]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B12694BC9-482E-579C-8A73-BFB474C2C7BF%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=33ac0b314353dee1a244d2a172f9a421%7C334156732c0a49f68f7933080bea4e96%7C4e7228f0-f8a2-4d37-8d71-9902abaca9a4&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2025.06.12-06.01.17:928][117]LogModuleManager: Shutting down and abandoning module SSL (102)
+[2025.06.12-06.01.17:939][117]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (98)
+[2025.06.12-06.01.17:940][117]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (96)
+[2025.06.12-06.01.17:941][117]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (94)
+[2025.06.12-06.01.17:942][117]LogModuleManager: Shutting down and abandoning module AISupportModule (92)
+[2025.06.12-06.01.17:942][117]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (90)
+[2025.06.12-06.01.17:942][117]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (88)
+[2025.06.12-06.01.17:942][117]LogModuleManager: Shutting down and abandoning module ChunkDownloader (86)
+[2025.06.12-06.01.17:942][117]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (84)
+[2025.06.12-06.01.17:942][117]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (82)
+[2025.06.12-06.01.17:943][117]RenderDocPlugin: plugin has been unloaded.
+[2025.06.12-06.01.17:943][117]LogModuleManager: Shutting down and abandoning module PixWinPlugin (80)
+[2025.06.12-06.01.17:944][117]LogModuleManager: Shutting down and abandoning module VariantManagerContent (78)
+[2025.06.12-06.01.17:944][117]LogModuleManager: Shutting down and abandoning module GLTFExporter (76)
+[2025.06.12-06.01.17:944][117]LogModuleManager: Shutting down and abandoning module DatasmithContent (74)
+[2025.06.12-06.01.17:944][117]LogModuleManager: Shutting down and abandoning module ChaosCloth (72)
+[2025.06.12-06.01.17:945][117]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2025.06.12-06.01.17:948][117]LogModuleManager: Shutting down and abandoning module Media (69)
+[2025.06.12-06.01.17:953][117]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2025.06.12-06.01.17:953][117]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (64)
+[2025.06.12-06.01.17:953][117]LogModuleManager: Shutting down and abandoning module NiagaraShader (62)
+[2025.06.12-06.01.17:953][117]LogModuleManager: Shutting down and abandoning module DesktopPlatform (60)
+[2025.06.12-06.01.17:953][117]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (58)
+[2025.06.12-06.01.17:955][117]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (56)
+[2025.06.12-06.01.17:958][117]LogModuleManager: Shutting down and abandoning module SourceControl (55)
+[2025.06.12-06.01.17:959][117]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (52)
+[2025.06.12-06.01.17:959][117]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (50)
+[2025.06.12-06.01.17:960][117]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (48)
+[2025.06.12-06.01.17:960][117]LogModuleManager: Shutting down and abandoning module PlatformCrypto (46)
+[2025.06.12-06.01.17:960][117]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2025.06.12-06.01.17:961][117]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2025.06.12-06.01.17:961][117]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2025.06.12-06.01.17:964][117]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2025.06.12-06.01.17:969][117]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2025.06.12-06.01.17:969][117]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2025.06.12-06.01.17:970][117]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2025.06.12-06.01.17:970][117]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2025.06.12-06.01.17:970][117]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2025.06.12-06.01.17:970][117]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2025.06.12-06.01.17:970][117]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2025.06.12-06.01.17:972][117]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2025.06.12-06.01.17:972][117]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2025.06.12-06.01.17:973][117]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2025.06.12-06.01.17:973][117]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2025.06.12-06.01.17:973][117]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2025.06.12-06.01.17:974][117]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2025.06.12-06.01.17:974][117]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2025.06.12-06.01.17:974][117]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2025.06.12-06.01.17:974][117]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2025.06.12-06.01.17:974][117]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2025.06.12-06.01.17:974][117]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2025.06.12-06.01.18:503][117]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.06.12-06.01.18:545][117]LogExit: Exiting.
+[2025.06.12-06.01.18:565][117]Log file closed, 06/12/25 13:01:18
