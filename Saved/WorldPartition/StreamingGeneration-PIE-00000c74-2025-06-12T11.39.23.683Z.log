@@ -1,0 +1,87 @@
+[+] Containers:
+ |- [+] Container: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:2FB58999456391D349DC0F86DAC136ED BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:316CF2A6494ACA4C0E4180A87D36AB8F BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:3A00AA1C422CE54C0BDB60BAF471BFBB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-6005.206 Y=8514.794 Z=620.013), Max=(X=-5894.794 Y=8625.206 Z=804.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:3E2381074F9EEED8943BB586069FB770 BaseClass:/Game/Lunch.Lunch_C NativeClass:/Script/Engine.Actor Name:Lunch_C_UAID_C46516240C43547102_1976102612 Label:Lunch SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4216.000 Y=-15188.000 Z=-72.000), Max=(X=-4104.000 Y=-15092.000 Z=-8.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:42FC9DAF4275A6D48A348E8E0D47A7A4 BaseClass:/Game/book.book_C NativeClass:/Script/Engine.Actor Name:book_C_UAID_C46516240C66CD6302_1203525127 Label:book SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6502.500 Y=8120.000 Z=19.928), Max=(X=-6362.500 Y=8260.000 Z=83.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:4D3BE93F4146AAAC8BBE79999D96D57F BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:4F1CE008400E0A6EB2966992F88CE7C9 BaseClass:/Game/Lunch.Lunch_C NativeClass:/Script/Engine.Actor Name:Lunch_C_UAID_C46516240C43547102_2057771613 Label:Lunch2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13654.000 Y=8692.000 Z=-72.000), Max=(X=13766.000 Y=8788.000 Z=-8.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:55C5009B4107183C500E59A40B3DE733 BaseClass:/Game/book.book_C NativeClass:/Script/Engine.Actor Name:book_C_UAID_C46516240C43656A02_1334360208 Label:book3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6440.000 Y=7640.000 Z=-0.041), Max=(X=-6360.000 Y=7720.000 Z=36.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:946A82B544BB6ADAD68820B5DC322F7D BaseClass:/Game/NewBlueprint.NewBlueprint_C NativeClass:/Script/Engine.Actor Name:NewBlueprint_C_UAID_EC5C68359F20976102_1171903504 Label:NewBlueprint SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-151431.413 Y=-98443.040 Z=-13826.379), Max=(X=135659.221 Y=171404.208 Z=12639.673) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:9B97646E458C36D855F7EC950A972987 BaseClass:/Game/book.book_C NativeClass:/Script/Engine.Actor Name:book_C_UAID_C46516240C43656A02_1322707207 Label:book2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6170.000 Y=8520.000 Z=9.959), Max=(X=-6090.000 Y=8600.000 Z=46.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:B785ED2844B84CFB91E7F39FE661CD99 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1048576.000 Y=-1048576.000 Z=-1048576.000), Max=(X=1048576.000 Y=1048576.000 Z=1048576.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:C22617154C967C0CBDCDFFA11CE5A277 BaseClass:/Game/Lunch.Lunch_C NativeClass:/Script/Engine.Actor Name:Lunch_C_UAID_C46516240C43557102_1119645791 Label:Lunch4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-22016.000 Y=12832.000 Z=-82.000), Max=(X=-21904.000 Y=12928.000 Z=-18.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:CCFF262C46EEFFDF319E7F9539CE697E BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:EBC33D304C291F5D7B80249EAF3194D3 BaseClass:/Game/Lunch.Lunch_C NativeClass:/Script/Engine.Actor Name:Lunch_C_UAID_C46516240C43547102_2127672614 Label:Lunch3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-19746.000 Y=-13618.000 Z=-82.000), Max=(X=-19634.000 Y=-13522.000 Z=-18.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:EC4E0C944CE6AC6E784BC6BB2916EA13 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:F1924B8D48954B30891B2DB6A694F9CC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_1 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-40834.000 Y=-46327.107 Z=-1559.000), Max=(X=49165.998 Y=58672.891 Z=-59.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:F5E3FEB3450C49844FD93DA8E083C8AD BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:FF30B9274CBF28A0661197956D4793CF BaseClass:/Game/Lunch.Lunch_C NativeClass:/Script/Engine.Actor Name:Lunch_C_UAID_C46516240C43557102_1159661792 Label:Lunch5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-618.025 Y=18075.367 Z=-79.647), Max=(X=-506.025 Y=18171.367 Z=-15.647) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:9B97646E458C36D855F7EC950A972987 BaseClass:/Game/book.book_C NativeClass:/Script/Engine.Actor Name:book_C_UAID_C46516240C43656A02_1322707207 Label:book2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6170.000 Y=8520.000 Z=9.959), Max=(X=-6090.000 Y=8600.000 Z=46.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:F5E3FEB3450C49844FD93DA8E083C8AD BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_0 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:55C5009B4107183C500E59A40B3DE733 BaseClass:/Game/book.book_C NativeClass:/Script/Engine.Actor Name:book_C_UAID_C46516240C43656A02_1334360208 Label:book3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6440.000 Y=7640.000 Z=-0.041), Max=(X=-6360.000 Y=7720.000 Z=36.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:4D3BE93F4146AAAC8BBE79999D96D57F BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:CCFF262C46EEFFDF319E7F9539CE697E BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:EC4E0C944CE6AC6E784BC6BB2916EA13 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:946A82B544BB6ADAD68820B5DC322F7D BaseClass:/Game/NewBlueprint.NewBlueprint_C NativeClass:/Script/Engine.Actor Name:NewBlueprint_C_UAID_EC5C68359F20976102_1171903504 Label:NewBlueprint SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-151431.413 Y=-98443.040 Z=-13826.379), Max=(X=135659.221 Y=171404.208 Z=12639.673) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:B785ED2844B84CFB91E7F39FE661CD99 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1048576.000 Y=-1048576.000 Z=-1048576.000), Max=(X=1048576.000 Y=1048576.000 Z=1048576.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:316CF2A6494ACA4C0E4180A87D36AB8F BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:F1924B8D48954B30891B2DB6A694F9CC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_1 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-40834.000 Y=-46327.107 Z=-1559.000), Max=(X=49165.998 Y=58672.891 Z=-59.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:2FB58999456391D349DC0F86DAC136ED BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:42FC9DAF4275A6D48A348E8E0D47A7A4 BaseClass:/Game/book.book_C NativeClass:/Script/Engine.Actor Name:book_C_UAID_C46516240C66CD6302_1203525127 Label:book SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6502.500 Y=8120.000 Z=19.928), Max=(X=-6362.500 Y=8260.000 Z=83.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:3E2381074F9EEED8943BB586069FB770 BaseClass:/Game/Lunch.Lunch_C NativeClass:/Script/Engine.Actor Name:Lunch_C_UAID_C46516240C43547102_1976102612 Label:Lunch SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-4216.000 Y=-15188.000 Z=-72.000), Max=(X=-4104.000 Y=-15092.000 Z=-8.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:3A00AA1C422CE54C0BDB60BAF471BFBB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-6005.206 Y=8514.794 Z=620.013), Max=(X=-5894.794 Y=8625.206 Z=804.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:4F1CE008400E0A6EB2966992F88CE7C9 BaseClass:/Game/Lunch.Lunch_C NativeClass:/Script/Engine.Actor Name:Lunch_C_UAID_C46516240C43547102_2057771613 Label:Lunch2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=13654.000 Y=8692.000 Z=-72.000), Max=(X=13766.000 Y=8788.000 Z=-8.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:EBC33D304C291F5D7B80249EAF3194D3 BaseClass:/Game/Lunch.Lunch_C NativeClass:/Script/Engine.Actor Name:Lunch_C_UAID_C46516240C43547102_2127672614 Label:Lunch3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-19746.000 Y=-13618.000 Z=-82.000), Max=(X=-19634.000 Y=-13522.000 Z=-18.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:C22617154C967C0CBDCDFFA11CE5A277 BaseClass:/Game/Lunch.Lunch_C NativeClass:/Script/Engine.Actor Name:Lunch_C_UAID_C46516240C43557102_1119645791 Label:Lunch4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-22016.000 Y=12832.000 Z=-82.000), Max=(X=-21904.000 Y=12928.000 Z=-18.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:FF30B9274CBF28A0661197956D4793CF BaseClass:/Game/Lunch.Lunch_C NativeClass:/Script/Engine.Actor Name:Lunch_C_UAID_C46516240C43557102_1159661792 Label:Lunch5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-618.025 Y=18075.367 Z=-79.647), Max=(X=-506.025 Y=18171.367 Z=-15.647) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/ThirdPerson/Maps/ThirdPersonMap
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 43 
+
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
