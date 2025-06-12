@@ -1262,3 +1262,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.06.12-02.41.32:557][ 79]LogSavePackage: Moving '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/KHOA2GIX5TAEUXMLV7RZUS_Auto1D77032E24178AB143ACEB3B759AEF2D9.tmp' to '../../../../../../Users/Admin/Documents/Unreal Projects/gamaland/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/QQ/KHOA2GIX5TAEUXMLV7RZUS_Auto1.uasset'
 [2025.06.12-02.41.32:558][ 79]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.056
 [2025.06.12-02.41.32:558][ 79]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.056
+[2025.06.12-02.47.37:904][293]LogFileHelpers: InternalPromptForCheckoutAndSave started...
